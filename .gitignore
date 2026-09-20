@@ -1,0 +1,13 @@
+.env
+*.env
+!.env.example
+.venv/
+__pycache__/
+.DS_Store
+# raw and intermediate data are re-downloadable; only small result files are tracked
+Data/*
+!Data/coverage_stats.json
+!Data/counterfactual_stats.json
+!Data/counterfactual_stations.geojson
+Outputs/
+Website/interactive/

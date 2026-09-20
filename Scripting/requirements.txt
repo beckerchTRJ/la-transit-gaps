@@ -1,0 +1,15 @@
+geopandas
+folium
+matplotlib
+partridge
+pandas
+numpy
+shapely
+jupyter
+requests
+python-dotenv
+branca
+h3
+topojson
+scikit-learn
+scipy

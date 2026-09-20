@@ -1,0 +1,13 @@
+{
+  "total_population_in_populated_hexes": 9833352,
+  "current_rail_1km_population": 1521643,
+  "current_rail_1km_percent": 15.5,
+  "dline_additional_population": 59259,
+  "dline_total_population": 1580902,
+  "dline_total_percent": 16.1,
+  "dline_n_stations": 4,
+  "hypothetical_additional_population": 929889,
+  "final_total_population": 2510791,
+  "final_total_percent": 25.5,
+  "n_hypothetical_stations": 20
+}

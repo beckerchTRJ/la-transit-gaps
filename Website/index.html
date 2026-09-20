@@ -1,0 +1,241 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>10 Million People, One Sprawling County — LA Transit Gaps</title>
+
+  <!-- Google Fonts -->
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=DM+Sans:wght@400;500&family=Space+Grotesk:wght@700&display=swap" rel="stylesheet">
+
+  <!-- D3 + TopoJSON -->
+  <script src="https://cdn.jsdelivr.net/npm/d3@7"></script>
+  <script src="https://cdn.jsdelivr.net/npm/topojson-client@3"></script>
+
+  <link rel="stylesheet" href="css/style.css">
+</head>
+<body>
+
+<div class="article">
+
+  <!-- ================================================================
+       Section 1: Hero — "10 Million People, One Sprawling County"
+       ================================================================ -->
+  <section class="hero" id="section-hero">
+    <div class="text-column">
+      <div class="section-label">Los Angeles County</div>
+      <h1>10 Million People, One Sprawling County</h1>
+      <p class="byline">A data-driven look at where LA's density meets — and misses — its transit network</p>
+      <p class="lead">
+        Los Angeles County is home to over 10 million residents spread across 4,751 square miles.
+        Some pockets rival Manhattan in density. Vast stretches of desert and mountain hold almost no one.
+        This extreme variation shapes everything about how the county moves.
+      </p>
+    </div>
+
+    <div class="figure-container fade-in" data-viz="heroDensity" id="viz-hero" style="position: relative;">
+    </div>
+
+    <div class="text-column">
+      <p class="figure-caption">
+        Population density by census block, 2020 Decennial Census. Each polygon is one of ~91,000 census blocks,
+        dissolved into quantile bins for rendering. No basemap — just the geometry of where people live.
+      </p>
+      <p>
+        The densest blocks — in Koreatown, Westlake, and East Hollywood — exceed 100,000 persons per square mile,
+        rivaling the densest neighborhoods in New York City. Meanwhile, the northern third of the county — the
+        Antelope Valley, Angeles National Forest — barely registers on the scale.
+      </p>
+      <p>
+        This density map is the foundation of our analysis. In a well-connected transit system, service
+        should roughly follow density: more people, more transit. But does it?
+      </p>
+    </div>
+  </section>
+
+
+  <!-- ================================================================
+       Section 2: "How Far Is the Nearest Stop?"
+       ================================================================ -->
+  <section id="section-coverage">
+    <div class="text-column">
+      <div class="section-label">Coverage Analysis</div>
+      <h2>How Far Is the Nearest Stop?</h2>
+      <p>
+        Transit planners use walking-distance buffers to measure coverage. The standard thresholds:
+        a ¼-mile walk (~5 minutes) to a bus stop, and a ½-mile walk (~10 minutes) to a rail station.
+        These distances come from FTA and TCRP transit planning research.
+      </p>
+    </div>
+
+    <div class="fade-in" data-viz="coverage">
+      <div class="stat-row" style="margin-bottom: 24px;">
+        <div class="stat-callout">
+          <div class="stat-number" id="stat-bus-pct" style="color: #ff6600;">—</div>
+          <div class="stat-label">of residents within ¼ mi of a bus stop</div>
+        </div>
+        <div class="stat-callout">
+          <div class="stat-number" id="stat-rail-pct" style="color: #1a1aff;">—</div>
+          <div class="stat-label">of residents within ½ mi of a rail station</div>
+        </div>
+      </div>
+
+      <div class="map-pair">
+        <div class="figure-container" id="viz-coverage-bus" style="position: relative;"></div>
+        <div class="figure-container" id="viz-coverage-rail" style="position: relative;"></div>
+      </div>
+    </div>
+
+    <div class="text-column">
+      <p class="figure-caption">
+        Left: ¼-mile walking buffer around all bus stops (Metro Bus + 13 municipal agencies).
+        Right: ½-mile buffer around rail stations (Metro Rail + Metrolink).
+        Orange/blue = covered area within LA County boundary.
+      </p>
+      <p>
+        LA's bus network blankets the urbanized area — the vast majority of city residents live
+        within a short walk of a bus stop. But bus service varies wildly in frequency and reliability.
+      </p>
+      <p>
+        Rail tells a different story. Despite billions invested in Metro Rail expansion over the past
+        three decades, the rail network's geographic reach remains limited. Only a fraction of
+        residents can walk to a rail station, concentrating high-quality transit access in
+        a few corridors.
+      </p>
+    </div>
+  </section>
+
+
+  <!-- ================================================================
+       Section 3: "Transit Deserts — Where Density Meets Neglect"
+       ================================================================ -->
+  <section id="section-deserts">
+    <div class="text-column">
+      <div class="section-label">Gap Analysis</div>
+      <h2>Transit Deserts — Where Density Meets Neglect</h2>
+      <p>
+        Not all gaps are equal. A low-density exurb with no rail isn't a "transit desert" — it's
+        expected. The real gaps are places where density is high but transit access is low.
+        To find them, we compute a distance-decayed access score for each hex — nearby stops
+        contribute more than distant ones — then rank each hex against its density peers using
+        population quintiles.
+      </p>
+      <p>
+        Red hexes score in the bottom half of their density peer group. Blue hexes are
+        better-served than average. The deficit ranges from −0.5 (worst in its density tier)
+        to +0.5 (best in its density tier), with 0 = median peer.
+      </p>
+    </div>
+
+    <div class="figure-container fade-in" data-viz="deserts" id="viz-deserts" style="position: relative;">
+    </div>
+
+    <div class="text-column">
+      <p class="figure-caption">
+        Transit access deficit by H3 hex (resolution 8, ~0.7 km²). Color = percentile rank
+        within density quintile minus 0.5. Only hexes with &gt;1,000 persons/mi² shown.
+      </p>
+    </div>
+
+    <div class="figure-container fade-in" id="viz-desert-bars" style="background: white;">
+    </div>
+
+    <div class="text-column">
+      <p>
+        The deepest transit deserts cluster in South LA, the eastern San Fernando Valley, and
+        parts of the San Gabriel Valley — areas with significant density but limited rail access
+        and sometimes sparse bus service. These neighborhoods depend on transit but are poorly
+        served by it.
+      </p>
+    </div>
+  </section>
+
+
+
+  <!-- ================================================================
+       Section 5: "What Would Good Look Like?"
+       ================================================================ -->
+  <section id="section-counterfactual">
+    <div class="text-column">
+      <div class="section-label">Counterfactual</div>
+      <h2>What Would Good Look Like?</h2>
+      <p>
+        If you could place new rail stations anywhere in the county, where would they do the most good?
+        We used a greedy set-cover algorithm: iteratively place a station at the densest location
+        without rail, covering all residents within 1 km, then repeat.
+      </p>
+    </div>
+
+    <div class="fade-in" data-viz="counterfactual">
+      <div class="stat-row" style="margin-bottom: 24px;">
+        <div class="stat-callout">
+          <div class="stat-number" id="stat-n-stations">—</div>
+          <div class="stat-label">hypothetical stations</div>
+        </div>
+        <div class="stat-callout">
+          <div class="stat-number" id="stat-additional-pop" style="color: var(--accent);">—</div>
+          <div class="stat-label">additional residents within 1 km of rail</div>
+        </div>
+        <div class="stat-callout">
+          <div class="stat-number" id="stat-new-rail-pct" style="color: #4575b4;">—</div>
+          <div class="stat-label" id="stat-new-rail-label">total rail coverage</div>
+        </div>
+      </div>
+
+      <div class="figure-container" id="viz-counterfactual" style="position: relative;"></div>
+    </div>
+
+    <div class="text-column">
+      <p class="figure-caption">
+        Blue shading = current rail coverage (1 km). Red dots = hypothetical station locations.
+        Dashed circles = new 1 km coverage area for each hypothetical station.
+      </p>
+      <p>
+        This isn't a real rail plan — engineering, cost, and politics constrain where lines can go.
+        But it illustrates the scale of the gap. A relatively small number of well-placed stations
+        could dramatically expand rail access for hundreds of thousands of residents in underserved
+        neighborhoods.
+      </p>
+    </div>
+  </section>
+
+
+  <!-- ================================================================
+       Section 6: "Explore the Data Yourself"
+       ================================================================ -->
+  <section id="section-explore">
+    <div class="text-column">
+      <div class="section-label">Interactive</div>
+      <h2>Explore the Data Yourself</h2>
+      <p>
+        This interactive map combines everything: population density (hex bins from census blocks),
+        all transit networks (Metro Bus, Metro Rail, Metrolink, and 13 municipal agencies), with
+        layer toggles and hover tooltips. Zoom in, toggle layers, and explore your neighborhood.
+      </p>
+    </div>
+
+    <div class="fade-in">
+      <iframe class="interactive-frame" src="interactive/la_transit_hex.html"
+              title="Interactive LA Transit Density Map"
+              loading="lazy"></iframe>
+    </div>
+
+    <div class="text-column" style="margin-top: 24px;">
+      <p class="figure-caption">
+        Data sources: 2020 Decennial Census (block-level population), LA Metro GTFS (bus + rail),
+        Metrolink GTFS, and 13 municipal agency GTFS feeds. H3 hex bins at resolution 8 (~0.7 km² per hex).
+        Density shown as persons per square mile.
+      </p>
+    </div>
+  </section>
+
+</div><!-- .article -->
+
+<!-- Scripts -->
+<script src="js/visualizations.js"></script>
+<script src="js/scroll.js"></script>
+
+</body>
+</html>

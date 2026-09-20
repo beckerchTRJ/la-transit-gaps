@@ -1,0 +1,4974 @@
+{
+  "Wilshire Blvd": {
+    "description": "Downtown to Santa Monica via Koreatown and Miracle Mile",
+    "length_mi": 14.3,
+    "coordinates": [
+      [
+        -118.25530000000002,
+        34.0558
+      ],
+      [
+        -118.3015,
+        34.06239999999998
+      ],
+      [
+        -118.3437,
+        34.06260000000007
+      ],
+      [
+        -118.3762,
+        34.0583
+      ],
+      [
+        -118.4514,
+        34.0395
+      ],
+      [
+        -118.4946,
+        34.01949999999998
+      ]
+    ],
+    "profile": [
+      {
+        "distance_mi": 0.0,
+        "density_per_mi2": 3244.0,
+        "population": 20160.0,
+        "mode": "bus+rail",
+        "lat": 34.0558,
+        "lng": -118.2553
+      },
+      {
+        "distance_mi": 0.12,
+        "density_per_mi2": 3671.0,
+        "population": 22989.0,
+        "mode": "bus+rail",
+        "lat": 34.05611,
+        "lng": -118.25744
+      },
+      {
+        "distance_mi": 0.25,
+        "density_per_mi2": 4192.0,
+        "population": 28900.0,
+        "mode": "bus+rail",
+        "lat": 34.05641,
+        "lng": -118.25957
+      },
+      {
+        "distance_mi": 0.37,
+        "density_per_mi2": 4577.0,
+        "population": 31813.0,
+        "mode": "bus",
+        "lat": 34.05672,
+        "lng": -118.26171
+      },
+      {
+        "distance_mi": 0.5,
+        "density_per_mi2": 5527.0,
+        "population": 37648.0,
+        "mode": "bus",
+        "lat": 34.05702,
+        "lng": -118.26384
+      },
+      {
+        "distance_mi": 0.62,
+        "density_per_mi2": 6844.0,
+        "population": 42135.0,
+        "mode": "bus",
+        "lat": 34.05733,
+        "lng": -118.26598
+      },
+      {
+        "distance_mi": 0.75,
+        "density_per_mi2": 7538.0,
+        "population": 46807.0,
+        "mode": "bus+rail",
+        "lat": 34.05763,
+        "lng": -118.26811
+      },
+      {
+        "distance_mi": 0.87,
+        "density_per_mi2": 7788.0,
+        "population": 48549.0,
+        "mode": "bus+rail",
+        "lat": 34.05794,
+        "lng": -118.27025
+      },
+      {
+        "distance_mi": 0.99,
+        "density_per_mi2": 7646.0,
+        "population": 49105.0,
+        "mode": "bus+rail",
+        "lat": 34.05824,
+        "lng": -118.27238
+      },
+      {
+        "distance_mi": 1.12,
+        "density_per_mi2": 7770.0,
+        "population": 50542.0,
+        "mode": "bus+rail",
+        "lat": 34.05855,
+        "lng": -118.27452
+      },
+      {
+        "distance_mi": 1.24,
+        "density_per_mi2": 7574.0,
+        "population": 50122.0,
+        "mode": "bus+rail",
+        "lat": 34.05885,
+        "lng": -118.27665
+      },
+      {
+        "distance_mi": 1.37,
+        "density_per_mi2": 7574.0,
+        "population": 50238.0,
+        "mode": "bus+rail",
+        "lat": 34.05916,
+        "lng": -118.27879
+      },
+      {
+        "distance_mi": 1.49,
+        "density_per_mi2": 7075.0,
+        "population": 47460.0,
+        "mode": "bus+rail",
+        "lat": 34.05946,
+        "lng": -118.28092
+      },
+      {
+        "distance_mi": 1.62,
+        "density_per_mi2": 6873.0,
+        "population": 44590.0,
+        "mode": "bus+rail",
+        "lat": 34.05977,
+        "lng": -118.28306
+      },
+      {
+        "distance_mi": 1.74,
+        "density_per_mi2": 6735.0,
+        "population": 43214.0,
+        "mode": "bus+rail",
+        "lat": 34.06007,
+        "lng": -118.28519
+      },
+      {
+        "distance_mi": 1.86,
+        "density_per_mi2": 6676.0,
+        "population": 44459.0,
+        "mode": "bus+rail",
+        "lat": 34.06038,
+        "lng": -118.28733
+      },
+      {
+        "distance_mi": 1.99,
+        "density_per_mi2": 6828.0,
+        "population": 45358.0,
+        "mode": "bus+rail",
+        "lat": 34.06068,
+        "lng": -118.28946
+      },
+      {
+        "distance_mi": 2.11,
+        "density_per_mi2": 7271.0,
+        "population": 46579.0,
+        "mode": "bus+rail",
+        "lat": 34.06099,
+        "lng": -118.2916
+      },
+      {
+        "distance_mi": 2.24,
+        "density_per_mi2": 7397.0,
+        "population": 47453.0,
+        "mode": "bus+rail",
+        "lat": 34.06129,
+        "lng": -118.29373
+      },
+      {
+        "distance_mi": 2.36,
+        "density_per_mi2": 7632.0,
+        "population": 48553.0,
+        "mode": "bus+rail",
+        "lat": 34.0616,
+        "lng": -118.29587
+      },
+      {
+        "distance_mi": 2.49,
+        "density_per_mi2": 8230.0,
+        "population": 50098.0,
+        "mode": "bus+rail",
+        "lat": 34.0619,
+        "lng": -118.298
+      },
+      {
+        "distance_mi": 2.61,
+        "density_per_mi2": 7909.0,
+        "population": 50592.0,
+        "mode": "bus+rail",
+        "lat": 34.06221,
+        "lng": -118.30014
+      },
+      {
+        "distance_mi": 2.73,
+        "density_per_mi2": 7534.0,
+        "population": 48482.0,
+        "mode": "bus+rail",
+        "lat": 34.0624,
+        "lng": -118.30229
+      },
+      {
+        "distance_mi": 2.86,
+        "density_per_mi2": 7200.0,
+        "population": 46214.0,
+        "mode": "bus+rail",
+        "lat": 34.06241,
+        "lng": -118.30445
+      },
+      {
+        "distance_mi": 2.98,
+        "density_per_mi2": 6708.0,
+        "population": 44172.0,
+        "mode": "bus+rail",
+        "lat": 34.06243,
+        "lng": -118.30662
+      },
+      {
+        "distance_mi": 3.11,
+        "density_per_mi2": 6139.0,
+        "population": 41055.0,
+        "mode": "bus+rail",
+        "lat": 34.06244,
+        "lng": -118.30879
+      },
+      {
+        "distance_mi": 3.23,
+        "density_per_mi2": 5204.0,
+        "population": 34004.0,
+        "mode": "bus+rail",
+        "lat": 34.06245,
+        "lng": -118.31095
+      },
+      {
+        "distance_mi": 3.36,
+        "density_per_mi2": 4590.0,
+        "population": 30450.0,
+        "mode": "bus+rail",
+        "lat": 34.06246,
+        "lng": -118.31312
+      },
+      {
+        "distance_mi": 3.48,
+        "density_per_mi2": 3840.0,
+        "population": 24414.0,
+        "mode": "bus+rail",
+        "lat": 34.06247,
+        "lng": -118.31529
+      },
+      {
+        "distance_mi": 3.6,
+        "density_per_mi2": 3311.0,
+        "population": 22383.0,
+        "mode": "bus",
+        "lat": 34.06248,
+        "lng": -118.31745
+      },
+      {
+        "distance_mi": 3.73,
+        "density_per_mi2": 2417.0,
+        "population": 16533.0,
+        "mode": "bus",
+        "lat": 34.06249,
+        "lng": -118.31962
+      },
+      {
+        "distance_mi": 3.85,
+        "density_per_mi2": 1670.0,
+        "population": 11482.0,
+        "mode": "bus",
+        "lat": 34.0625,
+        "lng": -118.32179
+      },
+      {
+        "distance_mi": 3.98,
+        "density_per_mi2": 1247.0,
+        "population": 8625.0,
+        "mode": "bus",
+        "lat": 34.06251,
+        "lng": -118.32395
+      },
+      {
+        "distance_mi": 4.1,
+        "density_per_mi2": 1103.0,
+        "population": 7262.0,
+        "mode": "bus",
+        "lat": 34.06252,
+        "lng": -118.32612
+      },
+      {
+        "distance_mi": 4.23,
+        "density_per_mi2": 937.0,
+        "population": 6073.0,
+        "mode": "bus",
+        "lat": 34.06253,
+        "lng": -118.32829
+      },
+      {
+        "distance_mi": 4.35,
+        "density_per_mi2": 909.0,
+        "population": 5702.0,
+        "mode": "bus",
+        "lat": 34.06254,
+        "lng": -118.33045
+      },
+      {
+        "distance_mi": 4.47,
+        "density_per_mi2": 928.0,
+        "population": 5797.0,
+        "mode": "bus",
+        "lat": 34.06255,
+        "lng": -118.33262
+      },
+      {
+        "distance_mi": 4.6,
+        "density_per_mi2": 1011.0,
+        "population": 6656.0,
+        "mode": "bus",
+        "lat": 34.06256,
+        "lng": -118.33478
+      },
+      {
+        "distance_mi": 4.72,
+        "density_per_mi2": 1204.0,
+        "population": 8578.0,
+        "mode": "bus",
+        "lat": 34.06257,
+        "lng": -118.33695
+      },
+      {
+        "distance_mi": 4.85,
+        "density_per_mi2": 1548.0,
+        "population": 11772.0,
+        "mode": "bus",
+        "lat": 34.06258,
+        "lng": -118.33912
+      },
+      {
+        "distance_mi": 4.97,
+        "density_per_mi2": 1961.0,
+        "population": 15511.0,
+        "mode": "bus",
+        "lat": 34.06259,
+        "lng": -118.34128
+      },
+      {
+        "distance_mi": 5.1,
+        "density_per_mi2": 2467.0,
+        "population": 19252.0,
+        "mode": "bus",
+        "lat": 34.0626,
+        "lng": -118.34345
+      },
+      {
+        "distance_mi": 5.22,
+        "density_per_mi2": 2556.0,
+        "population": 19696.0,
+        "mode": "bus",
+        "lat": 34.06235,
+        "lng": -118.34559
+      },
+      {
+        "distance_mi": 5.34,
+        "density_per_mi2": 2891.0,
+        "population": 21279.0,
+        "mode": "bus",
+        "lat": 34.06207,
+        "lng": -118.34773
+      },
+      {
+        "distance_mi": 5.47,
+        "density_per_mi2": 3151.0,
+        "population": 22804.0,
+        "mode": "bus",
+        "lat": 34.06178,
+        "lng": -118.34987
+      },
+      {
+        "distance_mi": 5.59,
+        "density_per_mi2": 3209.0,
+        "population": 23332.0,
+        "mode": "bus",
+        "lat": 34.0615,
+        "lng": -118.35201
+      },
+      {
+        "distance_mi": 5.72,
+        "density_per_mi2": 2876.0,
+        "population": 21651.0,
+        "mode": "bus",
+        "lat": 34.06122,
+        "lng": -118.35415
+      },
+      {
+        "distance_mi": 5.84,
+        "density_per_mi2": 2495.0,
+        "population": 19730.0,
+        "mode": "bus",
+        "lat": 34.06094,
+        "lng": -118.35629
+      },
+      {
+        "distance_mi": 5.97,
+        "density_per_mi2": 2269.0,
+        "population": 17572.0,
+        "mode": "bus",
+        "lat": 34.06065,
+        "lng": -118.35843
+      },
+      {
+        "distance_mi": 6.09,
+        "density_per_mi2": 1973.0,
+        "population": 13347.0,
+        "mode": "bus",
+        "lat": 34.06037,
+        "lng": -118.36057
+      },
+      {
+        "distance_mi": 6.21,
+        "density_per_mi2": 1787.0,
+        "population": 12684.0,
+        "mode": "bus",
+        "lat": 34.06009,
+        "lng": -118.36271
+      },
+      {
+        "distance_mi": 6.34,
+        "density_per_mi2": 1708.0,
+        "population": 12174.0,
+        "mode": "bus",
+        "lat": 34.0598,
+        "lng": -118.36485
+      },
+      {
+        "distance_mi": 6.46,
+        "density_per_mi2": 1698.0,
+        "population": 11514.0,
+        "mode": "bus",
+        "lat": 34.05952,
+        "lng": -118.36699
+      },
+      {
+        "distance_mi": 6.59,
+        "density_per_mi2": 1804.0,
+        "population": 12770.0,
+        "mode": "bus",
+        "lat": 34.05924,
+        "lng": -118.36913
+      },
+      {
+        "distance_mi": 6.71,
+        "density_per_mi2": 2027.0,
+        "population": 14537.0,
+        "mode": "bus",
+        "lat": 34.05895,
+        "lng": -118.37127
+      },
+      {
+        "distance_mi": 6.84,
+        "density_per_mi2": 2198.0,
+        "population": 15279.0,
+        "mode": "bus",
+        "lat": 34.05867,
+        "lng": -118.37341
+      },
+      {
+        "distance_mi": 6.96,
+        "density_per_mi2": 2294.0,
+        "population": 15650.0,
+        "mode": "bus",
+        "lat": 34.05839,
+        "lng": -118.37555
+      },
+      {
+        "distance_mi": 7.08,
+        "density_per_mi2": 2419.0,
+        "population": 16073.0,
+        "mode": "bus",
+        "lat": 34.05794,
+        "lng": -118.37764
+      },
+      {
+        "distance_mi": 7.21,
+        "density_per_mi2": 2401.0,
+        "population": 16696.0,
+        "mode": "bus",
+        "lat": 34.05742,
+        "lng": -118.37972
+      },
+      {
+        "distance_mi": 7.33,
+        "density_per_mi2": 2414.0,
+        "population": 17106.0,
+        "mode": "bus",
+        "lat": 34.0569,
+        "lng": -118.38179
+      },
+      {
+        "distance_mi": 7.46,
+        "density_per_mi2": 2462.0,
+        "population": 17874.0,
+        "mode": "bus",
+        "lat": 34.05639,
+        "lng": -118.38387
+      },
+      {
+        "distance_mi": 7.58,
+        "density_per_mi2": 2578.0,
+        "population": 19065.0,
+        "mode": "bus",
+        "lat": 34.05587,
+        "lng": -118.38594
+      },
+      {
+        "distance_mi": 7.71,
+        "density_per_mi2": 2476.0,
+        "population": 17693.0,
+        "mode": "bus",
+        "lat": 34.05535,
+        "lng": -118.38802
+      },
+      {
+        "distance_mi": 7.83,
+        "density_per_mi2": 2271.0,
+        "population": 15142.0,
+        "mode": "bus",
+        "lat": 34.05483,
+        "lng": -118.39009
+      },
+      {
+        "distance_mi": 7.95,
+        "density_per_mi2": 2170.0,
+        "population": 14226.0,
+        "mode": "bus",
+        "lat": 34.05431,
+        "lng": -118.39217
+      },
+      {
+        "distance_mi": 8.08,
+        "density_per_mi2": 2270.0,
+        "population": 14085.0,
+        "mode": "bus",
+        "lat": 34.05379,
+        "lng": -118.39424
+      },
+      {
+        "distance_mi": 8.2,
+        "density_per_mi2": 2314.0,
+        "population": 13069.0,
+        "mode": "bus",
+        "lat": 34.05328,
+        "lng": -118.39632
+      },
+      {
+        "distance_mi": 8.33,
+        "density_per_mi2": 2348.0,
+        "population": 12467.0,
+        "mode": "bus",
+        "lat": 34.05276,
+        "lng": -118.39839
+      },
+      {
+        "distance_mi": 8.45,
+        "density_per_mi2": 2157.0,
+        "population": 10804.0,
+        "mode": "bus",
+        "lat": 34.05224,
+        "lng": -118.40047
+      },
+      {
+        "distance_mi": 8.57,
+        "density_per_mi2": 2073.0,
+        "population": 9349.0,
+        "mode": "bus",
+        "lat": 34.05172,
+        "lng": -118.40254
+      },
+      {
+        "distance_mi": 8.7,
+        "density_per_mi2": 2121.0,
+        "population": 9043.0,
+        "mode": "bus",
+        "lat": 34.0512,
+        "lng": -118.40462
+      },
+      {
+        "distance_mi": 8.82,
+        "density_per_mi2": 2063.0,
+        "population": 8201.0,
+        "mode": "bus",
+        "lat": 34.05068,
+        "lng": -118.40669
+      },
+      {
+        "distance_mi": 8.95,
+        "density_per_mi2": 2441.0,
+        "population": 7860.0,
+        "mode": "bus",
+        "lat": 34.05017,
+        "lng": -118.40877
+      },
+      {
+        "distance_mi": 9.07,
+        "density_per_mi2": 2310.0,
+        "population": 7500.0,
+        "mode": "bus",
+        "lat": 34.04965,
+        "lng": -118.41084
+      },
+      {
+        "distance_mi": 9.2,
+        "density_per_mi2": 2121.0,
+        "population": 7806.0,
+        "mode": "bus",
+        "lat": 34.04913,
+        "lng": -118.41292
+      },
+      {
+        "distance_mi": 9.32,
+        "density_per_mi2": 1967.0,
+        "population": 8116.0,
+        "mode": "bus",
+        "lat": 34.04861,
+        "lng": -118.41499
+      },
+      {
+        "distance_mi": 9.44,
+        "density_per_mi2": 1839.0,
+        "population": 8158.0,
+        "mode": "bus",
+        "lat": 34.04809,
+        "lng": -118.41707
+      },
+      {
+        "distance_mi": 9.57,
+        "density_per_mi2": 1821.0,
+        "population": 9113.0,
+        "mode": "bus",
+        "lat": 34.04757,
+        "lng": -118.41914
+      },
+      {
+        "distance_mi": 9.69,
+        "density_per_mi2": 1615.0,
+        "population": 9902.0,
+        "mode": "bus",
+        "lat": 34.04705,
+        "lng": -118.42121
+      },
+      {
+        "distance_mi": 9.82,
+        "density_per_mi2": 1730.0,
+        "population": 11061.0,
+        "mode": "bus",
+        "lat": 34.04653,
+        "lng": -118.42329
+      },
+      {
+        "distance_mi": 9.94,
+        "density_per_mi2": 1869.0,
+        "population": 11802.0,
+        "mode": "bus",
+        "lat": 34.04602,
+        "lng": -118.42536
+      },
+      {
+        "distance_mi": 10.07,
+        "density_per_mi2": 1745.0,
+        "population": 10691.0,
+        "mode": "bus",
+        "lat": 34.0455,
+        "lng": -118.42744
+      },
+      {
+        "distance_mi": 10.19,
+        "density_per_mi2": 1802.0,
+        "population": 11163.0,
+        "mode": "bus",
+        "lat": 34.04498,
+        "lng": -118.42951
+      },
+      {
+        "distance_mi": 10.31,
+        "density_per_mi2": 1847.0,
+        "population": 12527.0,
+        "mode": "bus",
+        "lat": 34.04446,
+        "lng": -118.43159
+      },
+      {
+        "distance_mi": 10.44,
+        "density_per_mi2": 1696.0,
+        "population": 11749.0,
+        "mode": "bus",
+        "lat": 34.04394,
+        "lng": -118.43366
+      },
+      {
+        "distance_mi": 10.56,
+        "density_per_mi2": 1730.0,
+        "population": 12059.0,
+        "mode": "bus",
+        "lat": 34.04342,
+        "lng": -118.43574
+      },
+      {
+        "distance_mi": 10.69,
+        "density_per_mi2": 1732.0,
+        "population": 12027.0,
+        "mode": "bus",
+        "lat": 34.0429,
+        "lng": -118.43781
+      },
+      {
+        "distance_mi": 10.81,
+        "density_per_mi2": 1764.0,
+        "population": 12407.0,
+        "mode": "bus",
+        "lat": 34.04238,
+        "lng": -118.43988
+      },
+      {
+        "distance_mi": 10.94,
+        "density_per_mi2": 1818.0,
+        "population": 12959.0,
+        "mode": "bus",
+        "lat": 34.04186,
+        "lng": -118.44196
+      },
+      {
+        "distance_mi": 11.06,
+        "density_per_mi2": 2128.0,
+        "population": 14916.0,
+        "mode": "bus",
+        "lat": 34.04134,
+        "lng": -118.44403
+      },
+      {
+        "distance_mi": 11.18,
+        "density_per_mi2": 2120.0,
+        "population": 14064.0,
+        "mode": "bus",
+        "lat": 34.04083,
+        "lng": -118.44611
+      },
+      {
+        "distance_mi": 11.31,
+        "density_per_mi2": 2217.0,
+        "population": 13882.0,
+        "mode": "bus",
+        "lat": 34.04031,
+        "lng": -118.44818
+      },
+      {
+        "distance_mi": 11.43,
+        "density_per_mi2": 2771.0,
+        "population": 16975.0,
+        "mode": "bus",
+        "lat": 34.03979,
+        "lng": -118.45026
+      },
+      {
+        "distance_mi": 11.56,
+        "density_per_mi2": 3075.0,
+        "population": 18023.0,
+        "mode": "bus",
+        "lat": 34.03911,
+        "lng": -118.45225
+      },
+      {
+        "distance_mi": 11.68,
+        "density_per_mi2": 2910.0,
+        "population": 16944.0,
+        "mode": "bus+rail",
+        "lat": 34.03823,
+        "lng": -118.45414
+      },
+      {
+        "distance_mi": 11.81,
+        "density_per_mi2": 2643.0,
+        "population": 15513.0,
+        "mode": "bus+rail",
+        "lat": 34.03736,
+        "lng": -118.45603
+      },
+      {
+        "distance_mi": 11.93,
+        "density_per_mi2": 2545.0,
+        "population": 13909.0,
+        "mode": "bus+rail",
+        "lat": 34.03648,
+        "lng": -118.45793
+      },
+      {
+        "distance_mi": 12.05,
+        "density_per_mi2": 2581.0,
+        "population": 13320.0,
+        "mode": "bus+rail",
+        "lat": 34.0356,
+        "lng": -118.45982
+      },
+      {
+        "distance_mi": 12.18,
+        "density_per_mi2": 2624.0,
+        "population": 13645.0,
+        "mode": "bus",
+        "lat": 34.03473,
+        "lng": -118.46171
+      },
+      {
+        "distance_mi": 12.3,
+        "density_per_mi2": 2601.0,
+        "population": 12484.0,
+        "mode": "bus",
+        "lat": 34.03385,
+        "lng": -118.46361
+      },
+      {
+        "distance_mi": 12.43,
+        "density_per_mi2": 2529.0,
+        "population": 11450.0,
+        "mode": "bus+rail",
+        "lat": 34.03298,
+        "lng": -118.4655
+      },
+      {
+        "distance_mi": 12.55,
+        "density_per_mi2": 2407.0,
+        "population": 11174.0,
+        "mode": "bus+rail",
+        "lat": 34.0321,
+        "lng": -118.46739
+      },
+      {
+        "distance_mi": 12.68,
+        "density_per_mi2": 2352.0,
+        "population": 10950.0,
+        "mode": "bus+rail",
+        "lat": 34.03122,
+        "lng": -118.46929
+      },
+      {
+        "distance_mi": 12.8,
+        "density_per_mi2": 2298.0,
+        "population": 9941.0,
+        "mode": "bus+rail",
+        "lat": 34.03035,
+        "lng": -118.47118
+      },
+      {
+        "distance_mi": 12.92,
+        "density_per_mi2": 2198.0,
+        "population": 9927.0,
+        "mode": "bus+rail",
+        "lat": 34.02947,
+        "lng": -118.47307
+      },
+      {
+        "distance_mi": 13.05,
+        "density_per_mi2": 2046.0,
+        "population": 9772.0,
+        "mode": "bus+rail",
+        "lat": 34.02859,
+        "lng": -118.47496
+      },
+      {
+        "distance_mi": 13.17,
+        "density_per_mi2": 2043.0,
+        "population": 9947.0,
+        "mode": "bus+rail",
+        "lat": 34.02772,
+        "lng": -118.47686
+      },
+      {
+        "distance_mi": 13.3,
+        "density_per_mi2": 1997.0,
+        "population": 9550.0,
+        "mode": "bus+rail",
+        "lat": 34.02684,
+        "lng": -118.47875
+      },
+      {
+        "distance_mi": 13.42,
+        "density_per_mi2": 1979.0,
+        "population": 10274.0,
+        "mode": "bus+rail",
+        "lat": 34.02597,
+        "lng": -118.48064
+      },
+      {
+        "distance_mi": 13.55,
+        "density_per_mi2": 2131.0,
+        "population": 11228.0,
+        "mode": "bus+rail",
+        "lat": 34.02509,
+        "lng": -118.48253
+      },
+      {
+        "distance_mi": 13.67,
+        "density_per_mi2": 2201.0,
+        "population": 11973.0,
+        "mode": "bus+rail",
+        "lat": 34.02421,
+        "lng": -118.48443
+      },
+      {
+        "distance_mi": 13.79,
+        "density_per_mi2": 2318.0,
+        "population": 12288.0,
+        "mode": "bus+rail",
+        "lat": 34.02334,
+        "lng": -118.48632
+      },
+      {
+        "distance_mi": 13.92,
+        "density_per_mi2": 2565.0,
+        "population": 13287.0,
+        "mode": "bus+rail",
+        "lat": 34.02246,
+        "lng": -118.48821
+      },
+      {
+        "distance_mi": 14.04,
+        "density_per_mi2": 2802.0,
+        "population": 15644.0,
+        "mode": "bus",
+        "lat": 34.02158,
+        "lng": -118.4901
+      },
+      {
+        "distance_mi": 14.17,
+        "density_per_mi2": 3057.0,
+        "population": 17017.0,
+        "mode": "bus+rail",
+        "lat": 34.02071,
+        "lng": -118.492
+      },
+      {
+        "distance_mi": 14.29,
+        "density_per_mi2": 3023.0,
+        "population": 16616.0,
+        "mode": "bus+rail",
+        "lat": 34.01983,
+        "lng": -118.49389
+      }
+    ]
+  },
+  "Vermont Ave": {
+    "description": "Los Feliz to Watts \u2014 one of LA's densest bus-only corridors",
+    "length_mi": 9.9,
+    "coordinates": [
+      [
+        -118.2919,
+        34.101600000000026
+      ],
+      [
+        -118.2917,
+        34.07619999999995
+      ],
+      [
+        -118.29130000000002,
+        34.05240000000001
+      ],
+      [
+        -118.29100000000001,
+        34.02259999999995
+      ],
+      [
+        -118.282,
+        33.958899999999986
+      ]
+    ],
+    "profile": [
+      {
+        "distance_mi": 0.0,
+        "density_per_mi2": 2670.0,
+        "population": 19808.0,
+        "mode": "bus+rail",
+        "lat": 34.1016,
+        "lng": -118.2919
+      },
+      {
+        "distance_mi": 0.12,
+        "density_per_mi2": 2782.0,
+        "population": 20527.0,
+        "mode": "bus+rail",
+        "lat": 34.0998,
+        "lng": -118.29189
+      },
+      {
+        "distance_mi": 0.25,
+        "density_per_mi2": 2770.0,
+        "population": 19210.0,
+        "mode": "bus+rail",
+        "lat": 34.09799,
+        "lng": -118.29187
+      },
+      {
+        "distance_mi": 0.37,
+        "density_per_mi2": 2828.0,
+        "population": 19426.0,
+        "mode": "bus+rail",
+        "lat": 34.09619,
+        "lng": -118.29186
+      },
+      {
+        "distance_mi": 0.5,
+        "density_per_mi2": 3120.0,
+        "population": 19882.0,
+        "mode": "bus+rail",
+        "lat": 34.09439,
+        "lng": -118.29184
+      },
+      {
+        "distance_mi": 0.62,
+        "density_per_mi2": 3139.0,
+        "population": 21274.0,
+        "mode": "bus+rail",
+        "lat": 34.09259,
+        "lng": -118.29183
+      },
+      {
+        "distance_mi": 0.75,
+        "density_per_mi2": 3622.0,
+        "population": 22889.0,
+        "mode": "bus+rail",
+        "lat": 34.09078,
+        "lng": -118.29181
+      },
+      {
+        "distance_mi": 0.87,
+        "density_per_mi2": 3754.0,
+        "population": 23533.0,
+        "mode": "bus+rail",
+        "lat": 34.08898,
+        "lng": -118.2918
+      },
+      {
+        "distance_mi": 0.99,
+        "density_per_mi2": 3710.0,
+        "population": 25591.0,
+        "mode": "bus+rail",
+        "lat": 34.08718,
+        "lng": -118.29179
+      },
+      {
+        "distance_mi": 1.12,
+        "density_per_mi2": 3533.0,
+        "population": 24957.0,
+        "mode": "bus+rail",
+        "lat": 34.08537,
+        "lng": -118.29177
+      },
+      {
+        "distance_mi": 1.24,
+        "density_per_mi2": 3613.0,
+        "population": 24461.0,
+        "mode": "bus+rail",
+        "lat": 34.08357,
+        "lng": -118.29176
+      },
+      {
+        "distance_mi": 1.37,
+        "density_per_mi2": 3509.0,
+        "population": 24040.0,
+        "mode": "bus+rail",
+        "lat": 34.08177,
+        "lng": -118.29174
+      },
+      {
+        "distance_mi": 1.49,
+        "density_per_mi2": 3283.0,
+        "population": 23728.0,
+        "mode": "bus+rail",
+        "lat": 34.07997,
+        "lng": -118.29173
+      },
+      {
+        "distance_mi": 1.62,
+        "density_per_mi2": 3562.0,
+        "population": 27285.0,
+        "mode": "bus+rail",
+        "lat": 34.07816,
+        "lng": -118.29172
+      },
+      {
+        "distance_mi": 1.74,
+        "density_per_mi2": 3764.0,
+        "population": 26648.0,
+        "mode": "bus+rail",
+        "lat": 34.07636,
+        "lng": -118.2917
+      },
+      {
+        "distance_mi": 1.86,
+        "density_per_mi2": 4498.0,
+        "population": 31136.0,
+        "mode": "bus+rail",
+        "lat": 34.07456,
+        "lng": -118.29167
+      },
+      {
+        "distance_mi": 1.99,
+        "density_per_mi2": 5190.0,
+        "population": 34815.0,
+        "mode": "bus+rail",
+        "lat": 34.07275,
+        "lng": -118.29164
+      },
+      {
+        "distance_mi": 2.11,
+        "density_per_mi2": 5746.0,
+        "population": 37077.0,
+        "mode": "bus+rail",
+        "lat": 34.07095,
+        "lng": -118.29161
+      },
+      {
+        "distance_mi": 2.24,
+        "density_per_mi2": 6149.0,
+        "population": 39603.0,
+        "mode": "bus+rail",
+        "lat": 34.06915,
+        "lng": -118.29158
+      },
+      {
+        "distance_mi": 2.36,
+        "density_per_mi2": 6673.0,
+        "population": 41184.0,
+        "mode": "bus+rail",
+        "lat": 34.06735,
+        "lng": -118.29155
+      },
+      {
+        "distance_mi": 2.49,
+        "density_per_mi2": 7060.0,
+        "population": 43736.0,
+        "mode": "bus+rail",
+        "lat": 34.06554,
+        "lng": -118.29152
+      },
+      {
+        "distance_mi": 2.61,
+        "density_per_mi2": 7166.0,
+        "population": 45703.0,
+        "mode": "bus+rail",
+        "lat": 34.06374,
+        "lng": -118.29149
+      },
+      {
+        "distance_mi": 2.73,
+        "density_per_mi2": 7207.0,
+        "population": 44428.0,
+        "mode": "bus+rail",
+        "lat": 34.06194,
+        "lng": -118.29146
+      },
+      {
+        "distance_mi": 2.86,
+        "density_per_mi2": 7018.0,
+        "population": 43848.0,
+        "mode": "bus+rail",
+        "lat": 34.06014,
+        "lng": -118.29143
+      },
+      {
+        "distance_mi": 2.98,
+        "density_per_mi2": 6399.0,
+        "population": 40180.0,
+        "mode": "bus+rail",
+        "lat": 34.05833,
+        "lng": -118.2914
+      },
+      {
+        "distance_mi": 3.11,
+        "density_per_mi2": 6266.0,
+        "population": 40691.0,
+        "mode": "bus+rail",
+        "lat": 34.05653,
+        "lng": -118.29137
+      },
+      {
+        "distance_mi": 3.23,
+        "density_per_mi2": 6147.0,
+        "population": 39976.0,
+        "mode": "bus",
+        "lat": 34.05473,
+        "lng": -118.29134
+      },
+      {
+        "distance_mi": 3.36,
+        "density_per_mi2": 5821.0,
+        "population": 40189.0,
+        "mode": "bus",
+        "lat": 34.05292,
+        "lng": -118.29131
+      },
+      {
+        "distance_mi": 3.48,
+        "density_per_mi2": 5583.0,
+        "population": 37584.0,
+        "mode": "bus",
+        "lat": 34.05112,
+        "lng": -118.29129
+      },
+      {
+        "distance_mi": 3.6,
+        "density_per_mi2": 5008.0,
+        "population": 33191.0,
+        "mode": "bus",
+        "lat": 34.04932,
+        "lng": -118.29127
+      },
+      {
+        "distance_mi": 3.73,
+        "density_per_mi2": 4988.0,
+        "population": 28555.0,
+        "mode": "bus",
+        "lat": 34.04752,
+        "lng": -118.29125
+      },
+      {
+        "distance_mi": 3.85,
+        "density_per_mi2": 4752.0,
+        "population": 26260.0,
+        "mode": "bus",
+        "lat": 34.04571,
+        "lng": -118.29123
+      },
+      {
+        "distance_mi": 3.98,
+        "density_per_mi2": 4362.0,
+        "population": 23565.0,
+        "mode": "bus",
+        "lat": 34.04391,
+        "lng": -118.29121
+      },
+      {
+        "distance_mi": 4.1,
+        "density_per_mi2": 3971.0,
+        "population": 21948.0,
+        "mode": "bus",
+        "lat": 34.04211,
+        "lng": -118.2912
+      },
+      {
+        "distance_mi": 4.23,
+        "density_per_mi2": 3648.0,
+        "population": 20975.0,
+        "mode": "bus",
+        "lat": 34.0403,
+        "lng": -118.29118
+      },
+      {
+        "distance_mi": 4.35,
+        "density_per_mi2": 3311.0,
+        "population": 21230.0,
+        "mode": "bus",
+        "lat": 34.0385,
+        "lng": -118.29116
+      },
+      {
+        "distance_mi": 4.47,
+        "density_per_mi2": 3191.0,
+        "population": 20508.0,
+        "mode": "bus",
+        "lat": 34.0367,
+        "lng": -118.29114
+      },
+      {
+        "distance_mi": 4.6,
+        "density_per_mi2": 3200.0,
+        "population": 22096.0,
+        "mode": "bus",
+        "lat": 34.0349,
+        "lng": -118.29112
+      },
+      {
+        "distance_mi": 4.72,
+        "density_per_mi2": 3358.0,
+        "population": 23726.0,
+        "mode": "bus",
+        "lat": 34.03309,
+        "lng": -118.29111
+      },
+      {
+        "distance_mi": 4.85,
+        "density_per_mi2": 3404.0,
+        "population": 24858.0,
+        "mode": "bus",
+        "lat": 34.03129,
+        "lng": -118.29109
+      },
+      {
+        "distance_mi": 4.97,
+        "density_per_mi2": 3592.0,
+        "population": 25257.0,
+        "mode": "bus",
+        "lat": 34.02949,
+        "lng": -118.29107
+      },
+      {
+        "distance_mi": 5.1,
+        "density_per_mi2": 3458.0,
+        "population": 23859.0,
+        "mode": "bus",
+        "lat": 34.02768,
+        "lng": -118.29105
+      },
+      {
+        "distance_mi": 5.22,
+        "density_per_mi2": 3514.0,
+        "population": 24481.0,
+        "mode": "bus",
+        "lat": 34.02588,
+        "lng": -118.29103
+      },
+      {
+        "distance_mi": 5.34,
+        "density_per_mi2": 3284.0,
+        "population": 23614.0,
+        "mode": "bus+rail",
+        "lat": 34.02408,
+        "lng": -118.29101
+      },
+      {
+        "distance_mi": 5.47,
+        "density_per_mi2": 3050.0,
+        "population": 22322.0,
+        "mode": "bus+rail",
+        "lat": 34.02228,
+        "lng": -118.29095
+      },
+      {
+        "distance_mi": 5.59,
+        "density_per_mi2": 2917.0,
+        "population": 18800.0,
+        "mode": "bus+rail",
+        "lat": 34.02049,
+        "lng": -118.2907
+      },
+      {
+        "distance_mi": 5.72,
+        "density_per_mi2": 2894.0,
+        "population": 19308.0,
+        "mode": "bus+rail",
+        "lat": 34.0187,
+        "lng": -118.29045
+      },
+      {
+        "distance_mi": 5.84,
+        "density_per_mi2": 2772.0,
+        "population": 17761.0,
+        "mode": "bus+rail",
+        "lat": 34.0169,
+        "lng": -118.29019
+      },
+      {
+        "distance_mi": 5.97,
+        "density_per_mi2": 2794.0,
+        "population": 17500.0,
+        "mode": "bus+rail",
+        "lat": 34.01511,
+        "lng": -118.28994
+      },
+      {
+        "distance_mi": 6.09,
+        "density_per_mi2": 3288.0,
+        "population": 19257.0,
+        "mode": "bus+rail",
+        "lat": 34.01332,
+        "lng": -118.28969
+      },
+      {
+        "distance_mi": 6.21,
+        "density_per_mi2": 3508.0,
+        "population": 21545.0,
+        "mode": "bus+rail",
+        "lat": 34.01153,
+        "lng": -118.28944
+      },
+      {
+        "distance_mi": 6.34,
+        "density_per_mi2": 3390.0,
+        "population": 20650.0,
+        "mode": "bus",
+        "lat": 34.00974,
+        "lng": -118.28918
+      },
+      {
+        "distance_mi": 6.46,
+        "density_per_mi2": 3361.0,
+        "population": 21034.0,
+        "mode": "bus",
+        "lat": 34.00795,
+        "lng": -118.28893
+      },
+      {
+        "distance_mi": 6.59,
+        "density_per_mi2": 3280.0,
+        "population": 21629.0,
+        "mode": "bus",
+        "lat": 34.00616,
+        "lng": -118.28868
+      },
+      {
+        "distance_mi": 6.71,
+        "density_per_mi2": 3214.0,
+        "population": 23264.0,
+        "mode": "bus",
+        "lat": 34.00437,
+        "lng": -118.28842
+      },
+      {
+        "distance_mi": 6.84,
+        "density_per_mi2": 3375.0,
+        "population": 23622.0,
+        "mode": "bus",
+        "lat": 34.00258,
+        "lng": -118.28817
+      },
+      {
+        "distance_mi": 6.96,
+        "density_per_mi2": 3218.0,
+        "population": 23058.0,
+        "mode": "bus",
+        "lat": 34.00079,
+        "lng": -118.28792
+      },
+      {
+        "distance_mi": 7.08,
+        "density_per_mi2": 3063.0,
+        "population": 22698.0,
+        "mode": "bus",
+        "lat": 33.999,
+        "lng": -118.28766
+      },
+      {
+        "distance_mi": 7.21,
+        "density_per_mi2": 2929.0,
+        "population": 22092.0,
+        "mode": "bus",
+        "lat": 33.99721,
+        "lng": -118.28741
+      },
+      {
+        "distance_mi": 7.33,
+        "density_per_mi2": 2890.0,
+        "population": 20358.0,
+        "mode": "bus",
+        "lat": 33.99542,
+        "lng": -118.28716
+      },
+      {
+        "distance_mi": 7.46,
+        "density_per_mi2": 2838.0,
+        "population": 21077.0,
+        "mode": "bus",
+        "lat": 33.99363,
+        "lng": -118.2869
+      },
+      {
+        "distance_mi": 7.58,
+        "density_per_mi2": 2929.0,
+        "population": 21267.0,
+        "mode": "bus",
+        "lat": 33.99184,
+        "lng": -118.28665
+      },
+      {
+        "distance_mi": 7.71,
+        "density_per_mi2": 3017.0,
+        "population": 20446.0,
+        "mode": "bus",
+        "lat": 33.99004,
+        "lng": -118.2864
+      },
+      {
+        "distance_mi": 7.83,
+        "density_per_mi2": 3146.0,
+        "population": 20925.0,
+        "mode": "bus",
+        "lat": 33.98825,
+        "lng": -118.28615
+      },
+      {
+        "distance_mi": 7.95,
+        "density_per_mi2": 3192.0,
+        "population": 22237.0,
+        "mode": "bus",
+        "lat": 33.98646,
+        "lng": -118.28589
+      },
+      {
+        "distance_mi": 8.08,
+        "density_per_mi2": 3084.0,
+        "population": 21097.0,
+        "mode": "bus",
+        "lat": 33.98467,
+        "lng": -118.28564
+      },
+      {
+        "distance_mi": 8.2,
+        "density_per_mi2": 3151.0,
+        "population": 21873.0,
+        "mode": "bus",
+        "lat": 33.98288,
+        "lng": -118.28539
+      },
+      {
+        "distance_mi": 8.33,
+        "density_per_mi2": 3089.0,
+        "population": 22450.0,
+        "mode": "bus",
+        "lat": 33.98109,
+        "lng": -118.28513
+      },
+      {
+        "distance_mi": 8.45,
+        "density_per_mi2": 3029.0,
+        "population": 23270.0,
+        "mode": "bus",
+        "lat": 33.9793,
+        "lng": -118.28488
+      },
+      {
+        "distance_mi": 8.57,
+        "density_per_mi2": 2918.0,
+        "population": 23748.0,
+        "mode": "bus",
+        "lat": 33.97751,
+        "lng": -118.28463
+      },
+      {
+        "distance_mi": 8.7,
+        "density_per_mi2": 2837.0,
+        "population": 22889.0,
+        "mode": "bus",
+        "lat": 33.97572,
+        "lng": -118.28437
+      },
+      {
+        "distance_mi": 8.82,
+        "density_per_mi2": 2756.0,
+        "population": 23762.0,
+        "mode": "bus",
+        "lat": 33.97393,
+        "lng": -118.28412
+      },
+      {
+        "distance_mi": 8.95,
+        "density_per_mi2": 2692.0,
+        "population": 24950.0,
+        "mode": "bus",
+        "lat": 33.97214,
+        "lng": -118.28387
+      },
+      {
+        "distance_mi": 9.07,
+        "density_per_mi2": 2735.0,
+        "population": 25499.0,
+        "mode": "bus",
+        "lat": 33.97035,
+        "lng": -118.28362
+      },
+      {
+        "distance_mi": 9.2,
+        "density_per_mi2": 2859.0,
+        "population": 25530.0,
+        "mode": "bus",
+        "lat": 33.96856,
+        "lng": -118.28336
+      },
+      {
+        "distance_mi": 9.32,
+        "density_per_mi2": 2932.0,
+        "population": 24750.0,
+        "mode": "bus",
+        "lat": 33.96676,
+        "lng": -118.28311
+      },
+      {
+        "distance_mi": 9.44,
+        "density_per_mi2": 3059.0,
+        "population": 23625.0,
+        "mode": "bus",
+        "lat": 33.96497,
+        "lng": -118.28286
+      },
+      {
+        "distance_mi": 9.57,
+        "density_per_mi2": 3121.0,
+        "population": 22895.0,
+        "mode": "bus",
+        "lat": 33.96318,
+        "lng": -118.2826
+      },
+      {
+        "distance_mi": 9.69,
+        "density_per_mi2": 3070.0,
+        "population": 23108.0,
+        "mode": "bus",
+        "lat": 33.96139,
+        "lng": -118.28235
+      },
+      {
+        "distance_mi": 9.82,
+        "density_per_mi2": 2996.0,
+        "population": 23039.0,
+        "mode": "bus",
+        "lat": 33.9596,
+        "lng": -118.2821
+      }
+    ]
+  },
+  "Figueroa St": {
+    "description": "Highland Park to San Pedro through downtown and South LA",
+    "length_mi": 25.7,
+    "coordinates": [
+      [
+        -118.1903,
+        34.110899999999994
+      ],
+      [
+        -118.2507,
+        34.05360000000006
+      ],
+      [
+        -118.2748,
+        34.01710000000002
+      ],
+      [
+        -118.282,
+        33.93800000000001
+      ],
+      [
+        -118.2788,
+        33.762800000000006
+      ]
+    ],
+    "profile": [
+      {
+        "distance_mi": 0.0,
+        "density_per_mi2": 2126.0,
+        "population": 16654.0,
+        "mode": "bus+rail",
+        "lat": 34.1109,
+        "lng": -118.1903
+      },
+      {
+        "distance_mi": 0.12,
+        "density_per_mi2": 2158.0,
+        "population": 16109.0,
+        "mode": "bus+rail",
+        "lat": 34.10954,
+        "lng": -118.19173
+      },
+      {
+        "distance_mi": 0.25,
+        "density_per_mi2": 2242.0,
+        "population": 18594.0,
+        "mode": "bus+rail",
+        "lat": 34.10819,
+        "lng": -118.19316
+      },
+      {
+        "distance_mi": 0.37,
+        "density_per_mi2": 2312.0,
+        "population": 18450.0,
+        "mode": "bus+rail",
+        "lat": 34.10683,
+        "lng": -118.19459
+      },
+      {
+        "distance_mi": 0.5,
+        "density_per_mi2": 2340.0,
+        "population": 17898.0,
+        "mode": "bus+rail",
+        "lat": 34.10548,
+        "lng": -118.19602
+      },
+      {
+        "distance_mi": 0.62,
+        "density_per_mi2": 2292.0,
+        "population": 16513.0,
+        "mode": "bus",
+        "lat": 34.10412,
+        "lng": -118.19745
+      },
+      {
+        "distance_mi": 0.75,
+        "density_per_mi2": 2334.0,
+        "population": 15178.0,
+        "mode": "bus",
+        "lat": 34.10277,
+        "lng": -118.19888
+      },
+      {
+        "distance_mi": 0.87,
+        "density_per_mi2": 2339.0,
+        "population": 12815.0,
+        "mode": "bus+rail",
+        "lat": 34.10141,
+        "lng": -118.20031
+      },
+      {
+        "distance_mi": 0.99,
+        "density_per_mi2": 2004.0,
+        "population": 10980.0,
+        "mode": "bus+rail",
+        "lat": 34.10006,
+        "lng": -118.20174
+      },
+      {
+        "distance_mi": 1.12,
+        "density_per_mi2": 1665.0,
+        "population": 10910.0,
+        "mode": "bus+rail",
+        "lat": 34.0987,
+        "lng": -118.20317
+      },
+      {
+        "distance_mi": 1.24,
+        "density_per_mi2": 1563.0,
+        "population": 11431.0,
+        "mode": "bus+rail",
+        "lat": 34.09735,
+        "lng": -118.2046
+      },
+      {
+        "distance_mi": 1.37,
+        "density_per_mi2": 1566.0,
+        "population": 11732.0,
+        "mode": "bus+rail",
+        "lat": 34.09599,
+        "lng": -118.20603
+      },
+      {
+        "distance_mi": 1.49,
+        "density_per_mi2": 1614.0,
+        "population": 11605.0,
+        "mode": "bus+rail",
+        "lat": 34.09464,
+        "lng": -118.20746
+      },
+      {
+        "distance_mi": 1.62,
+        "density_per_mi2": 1606.0,
+        "population": 12125.0,
+        "mode": "bus+rail",
+        "lat": 34.09328,
+        "lng": -118.20888
+      },
+      {
+        "distance_mi": 1.74,
+        "density_per_mi2": 1551.0,
+        "population": 12406.0,
+        "mode": "bus+rail",
+        "lat": 34.09193,
+        "lng": -118.21031
+      },
+      {
+        "distance_mi": 1.86,
+        "density_per_mi2": 1605.0,
+        "population": 12392.0,
+        "mode": "bus+rail",
+        "lat": 34.09057,
+        "lng": -118.21174
+      },
+      {
+        "distance_mi": 1.99,
+        "density_per_mi2": 1740.0,
+        "population": 12200.0,
+        "mode": "bus+rail",
+        "lat": 34.08922,
+        "lng": -118.21317
+      },
+      {
+        "distance_mi": 2.11,
+        "density_per_mi2": 1948.0,
+        "population": 11506.0,
+        "mode": "bus+rail",
+        "lat": 34.08786,
+        "lng": -118.2146
+      },
+      {
+        "distance_mi": 2.24,
+        "density_per_mi2": 1939.0,
+        "population": 12231.0,
+        "mode": "bus+rail",
+        "lat": 34.08651,
+        "lng": -118.21603
+      },
+      {
+        "distance_mi": 2.36,
+        "density_per_mi2": 1993.0,
+        "population": 14471.0,
+        "mode": "bus+rail",
+        "lat": 34.08515,
+        "lng": -118.21746
+      },
+      {
+        "distance_mi": 2.49,
+        "density_per_mi2": 1683.0,
+        "population": 12916.0,
+        "mode": "bus+rail",
+        "lat": 34.08379,
+        "lng": -118.21889
+      },
+      {
+        "distance_mi": 2.61,
+        "density_per_mi2": 1473.0,
+        "population": 12842.0,
+        "mode": "bus+rail",
+        "lat": 34.08244,
+        "lng": -118.22032
+      },
+      {
+        "distance_mi": 2.73,
+        "density_per_mi2": 1289.0,
+        "population": 9126.0,
+        "mode": "bus+rail",
+        "lat": 34.08108,
+        "lng": -118.22175
+      },
+      {
+        "distance_mi": 2.86,
+        "density_per_mi2": 1015.0,
+        "population": 6763.0,
+        "mode": "bus+rail",
+        "lat": 34.07973,
+        "lng": -118.22317
+      },
+      {
+        "distance_mi": 2.98,
+        "density_per_mi2": 953.0,
+        "population": 7967.0,
+        "mode": "bus+rail",
+        "lat": 34.07837,
+        "lng": -118.2246
+      },
+      {
+        "distance_mi": 3.11,
+        "density_per_mi2": 842.0,
+        "population": 7213.0,
+        "mode": "bus+rail",
+        "lat": 34.07702,
+        "lng": -118.22603
+      },
+      {
+        "distance_mi": 3.23,
+        "density_per_mi2": 545.0,
+        "population": 5163.0,
+        "mode": "none",
+        "lat": 34.07566,
+        "lng": -118.22746
+      },
+      {
+        "distance_mi": 3.36,
+        "density_per_mi2": 514.0,
+        "population": 3163.0,
+        "mode": "bus",
+        "lat": 34.07431,
+        "lng": -118.22889
+      },
+      {
+        "distance_mi": 3.48,
+        "density_per_mi2": 596.0,
+        "population": 3094.0,
+        "mode": "bus",
+        "lat": 34.07295,
+        "lng": -118.23032
+      },
+      {
+        "distance_mi": 3.6,
+        "density_per_mi2": 852.0,
+        "population": 3751.0,
+        "mode": "bus",
+        "lat": 34.07159,
+        "lng": -118.23175
+      },
+      {
+        "distance_mi": 3.73,
+        "density_per_mi2": 1220.0,
+        "population": 4354.0,
+        "mode": "bus+rail",
+        "lat": 34.07024,
+        "lng": -118.23317
+      },
+      {
+        "distance_mi": 3.85,
+        "density_per_mi2": 1697.0,
+        "population": 5744.0,
+        "mode": "bus+rail",
+        "lat": 34.06888,
+        "lng": -118.2346
+      },
+      {
+        "distance_mi": 3.98,
+        "density_per_mi2": 2041.0,
+        "population": 9200.0,
+        "mode": "bus+rail",
+        "lat": 34.06753,
+        "lng": -118.23603
+      },
+      {
+        "distance_mi": 4.1,
+        "density_per_mi2": 2428.0,
+        "population": 11263.0,
+        "mode": "bus+rail",
+        "lat": 34.06617,
+        "lng": -118.23746
+      },
+      {
+        "distance_mi": 4.23,
+        "density_per_mi2": 2383.0,
+        "population": 14036.0,
+        "mode": "bus+rail",
+        "lat": 34.06482,
+        "lng": -118.23889
+      },
+      {
+        "distance_mi": 4.35,
+        "density_per_mi2": 2027.0,
+        "population": 14118.0,
+        "mode": "bus+rail",
+        "lat": 34.06346,
+        "lng": -118.24032
+      },
+      {
+        "distance_mi": 4.47,
+        "density_per_mi2": 1900.0,
+        "population": 15024.0,
+        "mode": "bus+rail",
+        "lat": 34.0621,
+        "lng": -118.24174
+      },
+      {
+        "distance_mi": 4.6,
+        "density_per_mi2": 1804.0,
+        "population": 15346.0,
+        "mode": "bus+rail",
+        "lat": 34.06075,
+        "lng": -118.24317
+      },
+      {
+        "distance_mi": 4.72,
+        "density_per_mi2": 2294.0,
+        "population": 17856.0,
+        "mode": "bus+rail",
+        "lat": 34.05939,
+        "lng": -118.2446
+      },
+      {
+        "distance_mi": 4.85,
+        "density_per_mi2": 2245.0,
+        "population": 16680.0,
+        "mode": "bus+rail",
+        "lat": 34.05804,
+        "lng": -118.24603
+      },
+      {
+        "distance_mi": 4.97,
+        "density_per_mi2": 2177.0,
+        "population": 16178.0,
+        "mode": "bus+rail",
+        "lat": 34.05668,
+        "lng": -118.24746
+      },
+      {
+        "distance_mi": 5.1,
+        "density_per_mi2": 2406.0,
+        "population": 17637.0,
+        "mode": "bus+rail",
+        "lat": 34.05532,
+        "lng": -118.24888
+      },
+      {
+        "distance_mi": 5.22,
+        "density_per_mi2": 2810.0,
+        "population": 17521.0,
+        "mode": "bus+rail",
+        "lat": 34.05397,
+        "lng": -118.25031
+      },
+      {
+        "distance_mi": 5.34,
+        "density_per_mi2": 3432.0,
+        "population": 21757.0,
+        "mode": "bus+rail",
+        "lat": 34.05245,
+        "lng": -118.25146
+      },
+      {
+        "distance_mi": 5.47,
+        "density_per_mi2": 3921.0,
+        "population": 25658.0,
+        "mode": "bus+rail",
+        "lat": 34.05087,
+        "lng": -118.2525
+      },
+      {
+        "distance_mi": 5.59,
+        "density_per_mi2": 4340.0,
+        "population": 27106.0,
+        "mode": "bus+rail",
+        "lat": 34.04929,
+        "lng": -118.25355
+      },
+      {
+        "distance_mi": 5.72,
+        "density_per_mi2": 4700.0,
+        "population": 30171.0,
+        "mode": "bus+rail",
+        "lat": 34.04771,
+        "lng": -118.25459
+      },
+      {
+        "distance_mi": 5.84,
+        "density_per_mi2": 4395.0,
+        "population": 27925.0,
+        "mode": "bus+rail",
+        "lat": 34.04613,
+        "lng": -118.25563
+      },
+      {
+        "distance_mi": 5.97,
+        "density_per_mi2": 4750.0,
+        "population": 28167.0,
+        "mode": "bus+rail",
+        "lat": 34.04455,
+        "lng": -118.25668
+      },
+      {
+        "distance_mi": 6.09,
+        "density_per_mi2": 4435.0,
+        "population": 26991.0,
+        "mode": "bus+rail",
+        "lat": 34.04297,
+        "lng": -118.25772
+      },
+      {
+        "distance_mi": 6.21,
+        "density_per_mi2": 4134.0,
+        "population": 25437.0,
+        "mode": "bus+rail",
+        "lat": 34.04139,
+        "lng": -118.25876
+      },
+      {
+        "distance_mi": 6.34,
+        "density_per_mi2": 3557.0,
+        "population": 23163.0,
+        "mode": "bus+rail",
+        "lat": 34.03981,
+        "lng": -118.25981
+      },
+      {
+        "distance_mi": 6.46,
+        "density_per_mi2": 2764.0,
+        "population": 18985.0,
+        "mode": "bus+rail",
+        "lat": 34.03823,
+        "lng": -118.26085
+      },
+      {
+        "distance_mi": 6.59,
+        "density_per_mi2": 2125.0,
+        "population": 15036.0,
+        "mode": "bus+rail",
+        "lat": 34.03665,
+        "lng": -118.2619
+      },
+      {
+        "distance_mi": 6.71,
+        "density_per_mi2": 1824.0,
+        "population": 12388.0,
+        "mode": "bus+rail",
+        "lat": 34.03507,
+        "lng": -118.26294
+      },
+      {
+        "distance_mi": 6.84,
+        "density_per_mi2": 1818.0,
+        "population": 11921.0,
+        "mode": "bus+rail",
+        "lat": 34.03349,
+        "lng": -118.26398
+      },
+      {
+        "distance_mi": 6.96,
+        "density_per_mi2": 1714.0,
+        "population": 10945.0,
+        "mode": "bus+rail",
+        "lat": 34.03191,
+        "lng": -118.26502
+      },
+      {
+        "distance_mi": 7.08,
+        "density_per_mi2": 1472.0,
+        "population": 11169.0,
+        "mode": "bus+rail",
+        "lat": 34.03033,
+        "lng": -118.26607
+      },
+      {
+        "distance_mi": 7.21,
+        "density_per_mi2": 1628.0,
+        "population": 12593.0,
+        "mode": "bus+rail",
+        "lat": 34.02875,
+        "lng": -118.26711
+      },
+      {
+        "distance_mi": 7.33,
+        "density_per_mi2": 1595.0,
+        "population": 13015.0,
+        "mode": "bus+rail",
+        "lat": 34.02717,
+        "lng": -118.26815
+      },
+      {
+        "distance_mi": 7.46,
+        "density_per_mi2": 1689.0,
+        "population": 13407.0,
+        "mode": "bus+rail",
+        "lat": 34.02559,
+        "lng": -118.2692
+      },
+      {
+        "distance_mi": 7.58,
+        "density_per_mi2": 1730.0,
+        "population": 13852.0,
+        "mode": "bus+rail",
+        "lat": 34.02401,
+        "lng": -118.27024
+      },
+      {
+        "distance_mi": 7.71,
+        "density_per_mi2": 1804.0,
+        "population": 15673.0,
+        "mode": "bus+rail",
+        "lat": 34.02243,
+        "lng": -118.27128
+      },
+      {
+        "distance_mi": 7.83,
+        "density_per_mi2": 1860.0,
+        "population": 16628.0,
+        "mode": "bus+rail",
+        "lat": 34.02085,
+        "lng": -118.27233
+      },
+      {
+        "distance_mi": 7.95,
+        "density_per_mi2": 1917.0,
+        "population": 16345.0,
+        "mode": "bus+rail",
+        "lat": 34.01927,
+        "lng": -118.27337
+      },
+      {
+        "distance_mi": 8.08,
+        "density_per_mi2": 1937.0,
+        "population": 16677.0,
+        "mode": "bus+rail",
+        "lat": 34.01769,
+        "lng": -118.27441
+      },
+      {
+        "distance_mi": 8.2,
+        "density_per_mi2": 1881.0,
+        "population": 15064.0,
+        "mode": "bus+rail",
+        "lat": 34.01597,
+        "lng": -118.2749
+      },
+      {
+        "distance_mi": 8.33,
+        "density_per_mi2": 2101.0,
+        "population": 15408.0,
+        "mode": "bus",
+        "lat": 34.01417,
+        "lng": -118.27507
+      },
+      {
+        "distance_mi": 8.45,
+        "density_per_mi2": 2529.0,
+        "population": 18494.0,
+        "mode": "bus",
+        "lat": 34.01238,
+        "lng": -118.27523
+      },
+      {
+        "distance_mi": 8.57,
+        "density_per_mi2": 2795.0,
+        "population": 21532.0,
+        "mode": "bus",
+        "lat": 34.01058,
+        "lng": -118.27539
+      },
+      {
+        "distance_mi": 8.7,
+        "density_per_mi2": 3006.0,
+        "population": 24246.0,
+        "mode": "bus",
+        "lat": 34.00878,
+        "lng": -118.27556
+      },
+      {
+        "distance_mi": 8.82,
+        "density_per_mi2": 3347.0,
+        "population": 27366.0,
+        "mode": "bus",
+        "lat": 34.00698,
+        "lng": -118.27572
+      },
+      {
+        "distance_mi": 8.95,
+        "density_per_mi2": 3500.0,
+        "population": 28496.0,
+        "mode": "bus",
+        "lat": 34.00518,
+        "lng": -118.27589
+      },
+      {
+        "distance_mi": 9.07,
+        "density_per_mi2": 3758.0,
+        "population": 30725.0,
+        "mode": "bus",
+        "lat": 34.00339,
+        "lng": -118.27605
+      },
+      {
+        "distance_mi": 9.2,
+        "density_per_mi2": 3638.0,
+        "population": 29735.0,
+        "mode": "bus",
+        "lat": 34.00159,
+        "lng": -118.27621
+      },
+      {
+        "distance_mi": 9.32,
+        "density_per_mi2": 3556.0,
+        "population": 28665.0,
+        "mode": "bus",
+        "lat": 33.99979,
+        "lng": -118.27638
+      },
+      {
+        "distance_mi": 9.44,
+        "density_per_mi2": 3527.0,
+        "population": 28074.0,
+        "mode": "bus",
+        "lat": 33.99799,
+        "lng": -118.27654
+      },
+      {
+        "distance_mi": 9.57,
+        "density_per_mi2": 3508.0,
+        "population": 27294.0,
+        "mode": "bus",
+        "lat": 33.9962,
+        "lng": -118.2767
+      },
+      {
+        "distance_mi": 9.69,
+        "density_per_mi2": 3296.0,
+        "population": 24229.0,
+        "mode": "bus",
+        "lat": 33.9944,
+        "lng": -118.27687
+      },
+      {
+        "distance_mi": 9.82,
+        "density_per_mi2": 3238.0,
+        "population": 23045.0,
+        "mode": "bus",
+        "lat": 33.9926,
+        "lng": -118.27703
+      },
+      {
+        "distance_mi": 9.94,
+        "density_per_mi2": 3144.0,
+        "population": 21627.0,
+        "mode": "bus",
+        "lat": 33.9908,
+        "lng": -118.2772
+      },
+      {
+        "distance_mi": 10.07,
+        "density_per_mi2": 3105.0,
+        "population": 21896.0,
+        "mode": "bus",
+        "lat": 33.989,
+        "lng": -118.27736
+      },
+      {
+        "distance_mi": 10.19,
+        "density_per_mi2": 3223.0,
+        "population": 21917.0,
+        "mode": "bus",
+        "lat": 33.98721,
+        "lng": -118.27752
+      },
+      {
+        "distance_mi": 10.31,
+        "density_per_mi2": 3194.0,
+        "population": 21420.0,
+        "mode": "bus",
+        "lat": 33.98541,
+        "lng": -118.27769
+      },
+      {
+        "distance_mi": 10.44,
+        "density_per_mi2": 3261.0,
+        "population": 22003.0,
+        "mode": "bus",
+        "lat": 33.98361,
+        "lng": -118.27785
+      },
+      {
+        "distance_mi": 10.56,
+        "density_per_mi2": 3343.0,
+        "population": 21609.0,
+        "mode": "bus",
+        "lat": 33.98181,
+        "lng": -118.27801
+      },
+      {
+        "distance_mi": 10.69,
+        "density_per_mi2": 3241.0,
+        "population": 22007.0,
+        "mode": "bus",
+        "lat": 33.98001,
+        "lng": -118.27818
+      },
+      {
+        "distance_mi": 10.81,
+        "density_per_mi2": 3233.0,
+        "population": 21867.0,
+        "mode": "bus",
+        "lat": 33.97822,
+        "lng": -118.27834
+      },
+      {
+        "distance_mi": 10.94,
+        "density_per_mi2": 3112.0,
+        "population": 23152.0,
+        "mode": "bus",
+        "lat": 33.97642,
+        "lng": -118.2785
+      },
+      {
+        "distance_mi": 11.06,
+        "density_per_mi2": 3181.0,
+        "population": 23862.0,
+        "mode": "bus",
+        "lat": 33.97462,
+        "lng": -118.27867
+      },
+      {
+        "distance_mi": 11.18,
+        "density_per_mi2": 3248.0,
+        "population": 25759.0,
+        "mode": "bus",
+        "lat": 33.97282,
+        "lng": -118.27883
+      },
+      {
+        "distance_mi": 11.31,
+        "density_per_mi2": 3232.0,
+        "population": 26187.0,
+        "mode": "bus",
+        "lat": 33.97102,
+        "lng": -118.279
+      },
+      {
+        "distance_mi": 11.43,
+        "density_per_mi2": 3374.0,
+        "population": 27875.0,
+        "mode": "bus",
+        "lat": 33.96923,
+        "lng": -118.27916
+      },
+      {
+        "distance_mi": 11.56,
+        "density_per_mi2": 3552.0,
+        "population": 27857.0,
+        "mode": "bus",
+        "lat": 33.96743,
+        "lng": -118.27932
+      },
+      {
+        "distance_mi": 11.68,
+        "density_per_mi2": 3354.0,
+        "population": 27704.0,
+        "mode": "bus",
+        "lat": 33.96563,
+        "lng": -118.27949
+      },
+      {
+        "distance_mi": 11.81,
+        "density_per_mi2": 3189.0,
+        "population": 26546.0,
+        "mode": "bus",
+        "lat": 33.96383,
+        "lng": -118.27965
+      },
+      {
+        "distance_mi": 11.93,
+        "density_per_mi2": 3257.0,
+        "population": 25361.0,
+        "mode": "bus",
+        "lat": 33.96203,
+        "lng": -118.27981
+      },
+      {
+        "distance_mi": 12.05,
+        "density_per_mi2": 3139.0,
+        "population": 23435.0,
+        "mode": "bus",
+        "lat": 33.96024,
+        "lng": -118.27998
+      },
+      {
+        "distance_mi": 12.18,
+        "density_per_mi2": 2933.0,
+        "population": 21946.0,
+        "mode": "bus",
+        "lat": 33.95844,
+        "lng": -118.28014
+      },
+      {
+        "distance_mi": 12.3,
+        "density_per_mi2": 2864.0,
+        "population": 20038.0,
+        "mode": "bus",
+        "lat": 33.95664,
+        "lng": -118.2803
+      },
+      {
+        "distance_mi": 12.43,
+        "density_per_mi2": 2652.0,
+        "population": 18557.0,
+        "mode": "bus",
+        "lat": 33.95484,
+        "lng": -118.28047
+      },
+      {
+        "distance_mi": 12.55,
+        "density_per_mi2": 2552.0,
+        "population": 19074.0,
+        "mode": "bus",
+        "lat": 33.95304,
+        "lng": -118.28063
+      },
+      {
+        "distance_mi": 12.68,
+        "density_per_mi2": 2499.0,
+        "population": 19815.0,
+        "mode": "bus",
+        "lat": 33.95125,
+        "lng": -118.2808
+      },
+      {
+        "distance_mi": 12.8,
+        "density_per_mi2": 2458.0,
+        "population": 19612.0,
+        "mode": "bus",
+        "lat": 33.94945,
+        "lng": -118.28096
+      },
+      {
+        "distance_mi": 12.92,
+        "density_per_mi2": 2379.0,
+        "population": 19600.0,
+        "mode": "bus",
+        "lat": 33.94765,
+        "lng": -118.28112
+      },
+      {
+        "distance_mi": 13.05,
+        "density_per_mi2": 2305.0,
+        "population": 19508.0,
+        "mode": "bus",
+        "lat": 33.94585,
+        "lng": -118.28129
+      },
+      {
+        "distance_mi": 13.17,
+        "density_per_mi2": 2392.0,
+        "population": 19598.0,
+        "mode": "bus",
+        "lat": 33.94405,
+        "lng": -118.28145
+      },
+      {
+        "distance_mi": 13.3,
+        "density_per_mi2": 2396.0,
+        "population": 18447.0,
+        "mode": "bus",
+        "lat": 33.94226,
+        "lng": -118.28161
+      },
+      {
+        "distance_mi": 13.42,
+        "density_per_mi2": 2312.0,
+        "population": 17015.0,
+        "mode": "bus",
+        "lat": 33.94046,
+        "lng": -118.28178
+      },
+      {
+        "distance_mi": 13.55,
+        "density_per_mi2": 2324.0,
+        "population": 17220.0,
+        "mode": "bus",
+        "lat": 33.93866,
+        "lng": -118.28194
+      },
+      {
+        "distance_mi": 13.67,
+        "density_per_mi2": 2293.0,
+        "population": 16640.0,
+        "mode": "bus",
+        "lat": 33.93686,
+        "lng": -118.28198
+      },
+      {
+        "distance_mi": 13.79,
+        "density_per_mi2": 2157.0,
+        "population": 15367.0,
+        "mode": "bus+rail",
+        "lat": 33.93506,
+        "lng": -118.28195
+      },
+      {
+        "distance_mi": 13.92,
+        "density_per_mi2": 2099.0,
+        "population": 13827.0,
+        "mode": "bus+rail",
+        "lat": 33.93325,
+        "lng": -118.28191
+      },
+      {
+        "distance_mi": 14.04,
+        "density_per_mi2": 2126.0,
+        "population": 13258.0,
+        "mode": "bus+rail",
+        "lat": 33.93145,
+        "lng": -118.28188
+      },
+      {
+        "distance_mi": 14.17,
+        "density_per_mi2": 2121.0,
+        "population": 13072.0,
+        "mode": "bus+rail",
+        "lat": 33.92965,
+        "lng": -118.28185
+      },
+      {
+        "distance_mi": 14.29,
+        "density_per_mi2": 1900.0,
+        "population": 13053.0,
+        "mode": "bus+rail",
+        "lat": 33.92784,
+        "lng": -118.28181
+      },
+      {
+        "distance_mi": 14.42,
+        "density_per_mi2": 1948.0,
+        "population": 13501.0,
+        "mode": "bus+rail",
+        "lat": 33.92604,
+        "lng": -118.28178
+      },
+      {
+        "distance_mi": 14.54,
+        "density_per_mi2": 1966.0,
+        "population": 12946.0,
+        "mode": "bus+rail",
+        "lat": 33.92424,
+        "lng": -118.28175
+      },
+      {
+        "distance_mi": 14.66,
+        "density_per_mi2": 1879.0,
+        "population": 12889.0,
+        "mode": "bus+rail",
+        "lat": 33.92244,
+        "lng": -118.28172
+      },
+      {
+        "distance_mi": 14.79,
+        "density_per_mi2": 1903.0,
+        "population": 12761.0,
+        "mode": "bus",
+        "lat": 33.92063,
+        "lng": -118.28168
+      },
+      {
+        "distance_mi": 14.91,
+        "density_per_mi2": 1721.0,
+        "population": 10601.0,
+        "mode": "bus",
+        "lat": 33.91883,
+        "lng": -118.28165
+      },
+      {
+        "distance_mi": 15.04,
+        "density_per_mi2": 1661.0,
+        "population": 9787.0,
+        "mode": "bus",
+        "lat": 33.91703,
+        "lng": -118.28162
+      },
+      {
+        "distance_mi": 15.16,
+        "density_per_mi2": 1355.0,
+        "population": 7324.0,
+        "mode": "bus",
+        "lat": 33.91522,
+        "lng": -118.28158
+      },
+      {
+        "distance_mi": 15.29,
+        "density_per_mi2": 1338.0,
+        "population": 6556.0,
+        "mode": "bus",
+        "lat": 33.91342,
+        "lng": -118.28155
+      },
+      {
+        "distance_mi": 15.41,
+        "density_per_mi2": 1316.0,
+        "population": 5411.0,
+        "mode": "bus",
+        "lat": 33.91162,
+        "lng": -118.28152
+      },
+      {
+        "distance_mi": 15.53,
+        "density_per_mi2": 975.0,
+        "population": 3900.0,
+        "mode": "bus",
+        "lat": 33.90981,
+        "lng": -118.28148
+      },
+      {
+        "distance_mi": 15.66,
+        "density_per_mi2": 678.0,
+        "population": 3029.0,
+        "mode": "bus",
+        "lat": 33.90801,
+        "lng": -118.28145
+      },
+      {
+        "distance_mi": 15.78,
+        "density_per_mi2": 799.0,
+        "population": 3798.0,
+        "mode": "bus",
+        "lat": 33.90621,
+        "lng": -118.28142
+      },
+      {
+        "distance_mi": 15.91,
+        "density_per_mi2": 906.0,
+        "population": 3780.0,
+        "mode": "bus",
+        "lat": 33.9044,
+        "lng": -118.28139
+      },
+      {
+        "distance_mi": 16.03,
+        "density_per_mi2": 972.0,
+        "population": 3432.0,
+        "mode": "bus",
+        "lat": 33.9026,
+        "lng": -118.28135
+      },
+      {
+        "distance_mi": 16.16,
+        "density_per_mi2": 870.0,
+        "population": 3180.0,
+        "mode": "bus",
+        "lat": 33.9008,
+        "lng": -118.28132
+      },
+      {
+        "distance_mi": 16.28,
+        "density_per_mi2": 678.0,
+        "population": 2810.0,
+        "mode": "bus",
+        "lat": 33.899,
+        "lng": -118.28129
+      },
+      {
+        "distance_mi": 16.4,
+        "density_per_mi2": 614.0,
+        "population": 3699.0,
+        "mode": "bus",
+        "lat": 33.89719,
+        "lng": -118.28125
+      },
+      {
+        "distance_mi": 16.53,
+        "density_per_mi2": 598.0,
+        "population": 3858.0,
+        "mode": "bus",
+        "lat": 33.89539,
+        "lng": -118.28122
+      },
+      {
+        "distance_mi": 16.65,
+        "density_per_mi2": 616.0,
+        "population": 4123.0,
+        "mode": "bus",
+        "lat": 33.89359,
+        "lng": -118.28119
+      },
+      {
+        "distance_mi": 16.78,
+        "density_per_mi2": 586.0,
+        "population": 4417.0,
+        "mode": "bus",
+        "lat": 33.89178,
+        "lng": -118.28115
+      },
+      {
+        "distance_mi": 16.9,
+        "density_per_mi2": 590.0,
+        "population": 4439.0,
+        "mode": "bus",
+        "lat": 33.88998,
+        "lng": -118.28112
+      },
+      {
+        "distance_mi": 17.03,
+        "density_per_mi2": 737.0,
+        "population": 5565.0,
+        "mode": "bus",
+        "lat": 33.88818,
+        "lng": -118.28109
+      },
+      {
+        "distance_mi": 17.15,
+        "density_per_mi2": 870.0,
+        "population": 5996.0,
+        "mode": "bus",
+        "lat": 33.88637,
+        "lng": -118.28106
+      },
+      {
+        "distance_mi": 17.27,
+        "density_per_mi2": 1142.0,
+        "population": 6787.0,
+        "mode": "bus",
+        "lat": 33.88457,
+        "lng": -118.28102
+      },
+      {
+        "distance_mi": 17.4,
+        "density_per_mi2": 1253.0,
+        "population": 6479.0,
+        "mode": "bus",
+        "lat": 33.88277,
+        "lng": -118.28099
+      },
+      {
+        "distance_mi": 17.52,
+        "density_per_mi2": 1181.0,
+        "population": 6564.0,
+        "mode": "bus",
+        "lat": 33.88096,
+        "lng": -118.28096
+      },
+      {
+        "distance_mi": 17.65,
+        "density_per_mi2": 937.0,
+        "population": 5672.0,
+        "mode": "bus",
+        "lat": 33.87916,
+        "lng": -118.28092
+      },
+      {
+        "distance_mi": 17.77,
+        "density_per_mi2": 687.0,
+        "population": 4650.0,
+        "mode": "none",
+        "lat": 33.87736,
+        "lng": -118.28089
+      },
+      {
+        "distance_mi": 17.9,
+        "density_per_mi2": 606.0,
+        "population": 4332.0,
+        "mode": "none",
+        "lat": 33.87556,
+        "lng": -118.28086
+      },
+      {
+        "distance_mi": 18.02,
+        "density_per_mi2": 489.0,
+        "population": 3206.0,
+        "mode": "bus",
+        "lat": 33.87375,
+        "lng": -118.28082
+      },
+      {
+        "distance_mi": 18.14,
+        "density_per_mi2": 349.0,
+        "population": 1980.0,
+        "mode": "bus",
+        "lat": 33.87195,
+        "lng": -118.28079
+      },
+      {
+        "distance_mi": 18.27,
+        "density_per_mi2": 455.0,
+        "population": 2583.0,
+        "mode": "bus",
+        "lat": 33.87015,
+        "lng": -118.28076
+      },
+      {
+        "distance_mi": 18.39,
+        "density_per_mi2": 356.0,
+        "population": 2229.0,
+        "mode": "bus",
+        "lat": 33.86834,
+        "lng": -118.28073
+      },
+      {
+        "distance_mi": 18.52,
+        "density_per_mi2": 278.0,
+        "population": 1972.0,
+        "mode": "bus",
+        "lat": 33.86654,
+        "lng": -118.28069
+      },
+      {
+        "distance_mi": 18.64,
+        "density_per_mi2": 294.0,
+        "population": 1656.0,
+        "mode": "bus",
+        "lat": 33.86474,
+        "lng": -118.28066
+      },
+      {
+        "distance_mi": 18.77,
+        "density_per_mi2": 320.0,
+        "population": 1939.0,
+        "mode": "bus",
+        "lat": 33.86293,
+        "lng": -118.28063
+      },
+      {
+        "distance_mi": 18.89,
+        "density_per_mi2": 357.0,
+        "population": 2115.0,
+        "mode": "bus",
+        "lat": 33.86113,
+        "lng": -118.28059
+      },
+      {
+        "distance_mi": 19.01,
+        "density_per_mi2": 251.0,
+        "population": 1502.0,
+        "mode": "bus",
+        "lat": 33.85933,
+        "lng": -118.28056
+      },
+      {
+        "distance_mi": 19.14,
+        "density_per_mi2": 198.0,
+        "population": 1345.0,
+        "mode": "none",
+        "lat": 33.85752,
+        "lng": -118.28053
+      },
+      {
+        "distance_mi": 19.26,
+        "density_per_mi2": 166.0,
+        "population": 1081.0,
+        "mode": "none",
+        "lat": 33.85572,
+        "lng": -118.2805
+      },
+      {
+        "distance_mi": 19.39,
+        "density_per_mi2": 56.0,
+        "population": 386.0,
+        "mode": "none",
+        "lat": 33.85392,
+        "lng": -118.28046
+      },
+      {
+        "distance_mi": 19.51,
+        "density_per_mi2": 38.0,
+        "population": 177.0,
+        "mode": "none",
+        "lat": 33.85211,
+        "lng": -118.28043
+      },
+      {
+        "distance_mi": 19.64,
+        "density_per_mi2": 236.0,
+        "population": 488.0,
+        "mode": "none",
+        "lat": 33.85031,
+        "lng": -118.2804
+      },
+      {
+        "distance_mi": 19.76,
+        "density_per_mi2": 417.0,
+        "population": 1368.0,
+        "mode": "none",
+        "lat": 33.84851,
+        "lng": -118.28036
+      },
+      {
+        "distance_mi": 19.88,
+        "density_per_mi2": 528.0,
+        "population": 3750.0,
+        "mode": "none",
+        "lat": 33.84671,
+        "lng": -118.28033
+      },
+      {
+        "distance_mi": 20.01,
+        "density_per_mi2": 827.0,
+        "population": 4445.0,
+        "mode": "none",
+        "lat": 33.8449,
+        "lng": -118.2803
+      },
+      {
+        "distance_mi": 20.13,
+        "density_per_mi2": 1163.0,
+        "population": 5399.0,
+        "mode": "none",
+        "lat": 33.8431,
+        "lng": -118.28026
+      },
+      {
+        "distance_mi": 20.26,
+        "density_per_mi2": 1308.0,
+        "population": 6828.0,
+        "mode": "none",
+        "lat": 33.8413,
+        "lng": -118.28023
+      },
+      {
+        "distance_mi": 20.38,
+        "density_per_mi2": 1755.0,
+        "population": 7771.0,
+        "mode": "none",
+        "lat": 33.83949,
+        "lng": -118.2802
+      },
+      {
+        "distance_mi": 20.51,
+        "density_per_mi2": 1852.0,
+        "population": 10464.0,
+        "mode": "none",
+        "lat": 33.83769,
+        "lng": -118.28017
+      },
+      {
+        "distance_mi": 20.63,
+        "density_per_mi2": 2038.0,
+        "population": 11971.0,
+        "mode": "none",
+        "lat": 33.83589,
+        "lng": -118.28013
+      },
+      {
+        "distance_mi": 20.75,
+        "density_per_mi2": 2516.0,
+        "population": 14705.0,
+        "mode": "bus",
+        "lat": 33.83408,
+        "lng": -118.2801
+      },
+      {
+        "distance_mi": 20.88,
+        "density_per_mi2": 2738.0,
+        "population": 14841.0,
+        "mode": "bus",
+        "lat": 33.83228,
+        "lng": -118.28007
+      },
+      {
+        "distance_mi": 21.0,
+        "density_per_mi2": 2739.0,
+        "population": 16564.0,
+        "mode": "bus",
+        "lat": 33.83048,
+        "lng": -118.28003
+      },
+      {
+        "distance_mi": 21.13,
+        "density_per_mi2": 2687.0,
+        "population": 17186.0,
+        "mode": "bus",
+        "lat": 33.82867,
+        "lng": -118.28
+      },
+      {
+        "distance_mi": 21.25,
+        "density_per_mi2": 2251.0,
+        "population": 14352.0,
+        "mode": "bus",
+        "lat": 33.82687,
+        "lng": -118.27997
+      },
+      {
+        "distance_mi": 21.38,
+        "density_per_mi2": 2064.0,
+        "population": 16075.0,
+        "mode": "bus",
+        "lat": 33.82507,
+        "lng": -118.27994
+      },
+      {
+        "distance_mi": 21.5,
+        "density_per_mi2": 2184.0,
+        "population": 14799.0,
+        "mode": "bus",
+        "lat": 33.82326,
+        "lng": -118.2799
+      },
+      {
+        "distance_mi": 21.62,
+        "density_per_mi2": 2016.0,
+        "population": 14897.0,
+        "mode": "bus",
+        "lat": 33.82146,
+        "lng": -118.27987
+      },
+      {
+        "distance_mi": 21.75,
+        "density_per_mi2": 1947.0,
+        "population": 14759.0,
+        "mode": "none",
+        "lat": 33.81966,
+        "lng": -118.27984
+      },
+      {
+        "distance_mi": 21.87,
+        "density_per_mi2": 1926.0,
+        "population": 14218.0,
+        "mode": "bus",
+        "lat": 33.81785,
+        "lng": -118.2798
+      },
+      {
+        "distance_mi": 22.0,
+        "density_per_mi2": 1973.0,
+        "population": 13300.0,
+        "mode": "none",
+        "lat": 33.81605,
+        "lng": -118.27977
+      },
+      {
+        "distance_mi": 22.12,
+        "density_per_mi2": 1744.0,
+        "population": 11402.0,
+        "mode": "bus",
+        "lat": 33.81425,
+        "lng": -118.27974
+      },
+      {
+        "distance_mi": 22.25,
+        "density_per_mi2": 1789.0,
+        "population": 11717.0,
+        "mode": "bus",
+        "lat": 33.81244,
+        "lng": -118.27971
+      },
+      {
+        "distance_mi": 22.37,
+        "density_per_mi2": 1525.0,
+        "population": 10544.0,
+        "mode": "bus",
+        "lat": 33.81064,
+        "lng": -118.27967
+      },
+      {
+        "distance_mi": 22.49,
+        "density_per_mi2": 1430.0,
+        "population": 9778.0,
+        "mode": "bus",
+        "lat": 33.80884,
+        "lng": -118.27964
+      },
+      {
+        "distance_mi": 22.62,
+        "density_per_mi2": 1208.0,
+        "population": 7212.0,
+        "mode": "bus",
+        "lat": 33.80703,
+        "lng": -118.27961
+      },
+      {
+        "distance_mi": 22.74,
+        "density_per_mi2": 1011.0,
+        "population": 5122.0,
+        "mode": "bus",
+        "lat": 33.80523,
+        "lng": -118.27957
+      },
+      {
+        "distance_mi": 22.87,
+        "density_per_mi2": 1180.0,
+        "population": 5649.0,
+        "mode": "none",
+        "lat": 33.80343,
+        "lng": -118.27954
+      },
+      {
+        "distance_mi": 22.99,
+        "density_per_mi2": 1241.0,
+        "population": 4310.0,
+        "mode": "none",
+        "lat": 33.80163,
+        "lng": -118.27951
+      },
+      {
+        "distance_mi": 23.12,
+        "density_per_mi2": 1436.0,
+        "population": 5620.0,
+        "mode": "bus",
+        "lat": 33.79982,
+        "lng": -118.27947
+      },
+      {
+        "distance_mi": 23.24,
+        "density_per_mi2": 1636.0,
+        "population": 6819.0,
+        "mode": "bus",
+        "lat": 33.79802,
+        "lng": -118.27944
+      },
+      {
+        "distance_mi": 23.36,
+        "density_per_mi2": 1596.0,
+        "population": 8534.0,
+        "mode": "bus",
+        "lat": 33.79622,
+        "lng": -118.27941
+      },
+      {
+        "distance_mi": 23.49,
+        "density_per_mi2": 1670.0,
+        "population": 9546.0,
+        "mode": "bus",
+        "lat": 33.79441,
+        "lng": -118.27938
+      },
+      {
+        "distance_mi": 23.61,
+        "density_per_mi2": 1733.0,
+        "population": 9728.0,
+        "mode": "bus",
+        "lat": 33.79261,
+        "lng": -118.27934
+      },
+      {
+        "distance_mi": 23.74,
+        "density_per_mi2": 1953.0,
+        "population": 11073.0,
+        "mode": "bus",
+        "lat": 33.79081,
+        "lng": -118.27931
+      },
+      {
+        "distance_mi": 23.86,
+        "density_per_mi2": 2013.0,
+        "population": 11052.0,
+        "mode": "bus",
+        "lat": 33.789,
+        "lng": -118.27928
+      },
+      {
+        "distance_mi": 23.98,
+        "density_per_mi2": 2238.0,
+        "population": 11374.0,
+        "mode": "bus",
+        "lat": 33.7872,
+        "lng": -118.27924
+      },
+      {
+        "distance_mi": 24.11,
+        "density_per_mi2": 2278.0,
+        "population": 11595.0,
+        "mode": "bus",
+        "lat": 33.7854,
+        "lng": -118.27921
+      },
+      {
+        "distance_mi": 24.23,
+        "density_per_mi2": 2549.0,
+        "population": 11822.0,
+        "mode": "bus",
+        "lat": 33.78359,
+        "lng": -118.27918
+      },
+      {
+        "distance_mi": 24.36,
+        "density_per_mi2": 2648.0,
+        "population": 12423.0,
+        "mode": "bus",
+        "lat": 33.78179,
+        "lng": -118.27915
+      },
+      {
+        "distance_mi": 24.48,
+        "density_per_mi2": 2900.0,
+        "population": 13300.0,
+        "mode": "bus",
+        "lat": 33.77999,
+        "lng": -118.27911
+      },
+      {
+        "distance_mi": 24.61,
+        "density_per_mi2": 2906.0,
+        "population": 12525.0,
+        "mode": "bus",
+        "lat": 33.77818,
+        "lng": -118.27908
+      },
+      {
+        "distance_mi": 24.73,
+        "density_per_mi2": 2739.0,
+        "population": 11696.0,
+        "mode": "bus",
+        "lat": 33.77638,
+        "lng": -118.27905
+      },
+      {
+        "distance_mi": 24.85,
+        "density_per_mi2": 2435.0,
+        "population": 9708.0,
+        "mode": "bus",
+        "lat": 33.77458,
+        "lng": -118.27901
+      },
+      {
+        "distance_mi": 24.98,
+        "density_per_mi2": 2262.0,
+        "population": 8493.0,
+        "mode": "bus",
+        "lat": 33.77277,
+        "lng": -118.27898
+      },
+      {
+        "distance_mi": 25.1,
+        "density_per_mi2": 2248.0,
+        "population": 5899.0,
+        "mode": "bus",
+        "lat": 33.77097,
+        "lng": -118.27895
+      },
+      {
+        "distance_mi": 25.23,
+        "density_per_mi2": 1959.0,
+        "population": 3993.0,
+        "mode": "none",
+        "lat": 33.76917,
+        "lng": -118.27892
+      },
+      {
+        "distance_mi": 25.35,
+        "density_per_mi2": 1321.0,
+        "population": 2005.0,
+        "mode": "none",
+        "lat": 33.76736,
+        "lng": -118.27888
+      },
+      {
+        "distance_mi": 25.48,
+        "density_per_mi2": 643.0,
+        "population": 702.0,
+        "mode": "none",
+        "lat": 33.76556,
+        "lng": -118.27885
+      },
+      {
+        "distance_mi": 25.6,
+        "density_per_mi2": 0.0,
+        "population": 21.0,
+        "mode": "none",
+        "lat": 33.76376,
+        "lng": -118.27882
+      }
+    ]
+  },
+  "Crenshaw Blvd": {
+    "description": "Exposition Park to LAX area \u2014 new Crenshaw/LAX rail line",
+    "length_mi": 7.7,
+    "coordinates": [
+      [
+        -118.3281,
+        34.02400000000001
+      ],
+      [
+        -118.333,
+        34.002600000000015
+      ],
+      [
+        -118.3353,
+        33.961
+      ],
+      [
+        -118.34000000000002,
+        33.932999999999964
+      ],
+      [
+        -118.35900000000001,
+        33.920500000000004
+      ]
+    ],
+    "profile": [
+      {
+        "distance_mi": 0.0,
+        "density_per_mi2": 1900.0,
+        "population": 13398.0,
+        "mode": "bus+rail",
+        "lat": 34.024,
+        "lng": -118.3281
+      },
+      {
+        "distance_mi": 0.12,
+        "density_per_mi2": 1656.0,
+        "population": 11348.0,
+        "mode": "bus+rail",
+        "lat": 34.02223,
+        "lng": -118.32851
+      },
+      {
+        "distance_mi": 0.25,
+        "density_per_mi2": 1468.0,
+        "population": 11108.0,
+        "mode": "bus+rail",
+        "lat": 34.02046,
+        "lng": -118.32891
+      },
+      {
+        "distance_mi": 0.37,
+        "density_per_mi2": 1412.0,
+        "population": 10487.0,
+        "mode": "bus+rail",
+        "lat": 34.01869,
+        "lng": -118.32932
+      },
+      {
+        "distance_mi": 0.5,
+        "density_per_mi2": 1317.0,
+        "population": 9321.0,
+        "mode": "bus+rail",
+        "lat": 34.01692,
+        "lng": -118.32972
+      },
+      {
+        "distance_mi": 0.62,
+        "density_per_mi2": 1399.0,
+        "population": 8264.0,
+        "mode": "bus+rail",
+        "lat": 34.01514,
+        "lng": -118.33013
+      },
+      {
+        "distance_mi": 0.75,
+        "density_per_mi2": 1502.0,
+        "population": 8336.0,
+        "mode": "bus+rail",
+        "lat": 34.01337,
+        "lng": -118.33053
+      },
+      {
+        "distance_mi": 0.87,
+        "density_per_mi2": 1527.0,
+        "population": 9439.0,
+        "mode": "bus+rail",
+        "lat": 34.0116,
+        "lng": -118.33094
+      },
+      {
+        "distance_mi": 0.99,
+        "density_per_mi2": 1693.0,
+        "population": 10620.0,
+        "mode": "bus+rail",
+        "lat": 34.00983,
+        "lng": -118.33134
+      },
+      {
+        "distance_mi": 1.12,
+        "density_per_mi2": 1704.0,
+        "population": 11252.0,
+        "mode": "bus+rail",
+        "lat": 34.00806,
+        "lng": -118.33175
+      },
+      {
+        "distance_mi": 1.24,
+        "density_per_mi2": 1789.0,
+        "population": 11252.0,
+        "mode": "bus+rail",
+        "lat": 34.00629,
+        "lng": -118.33216
+      },
+      {
+        "distance_mi": 1.37,
+        "density_per_mi2": 1731.0,
+        "population": 11644.0,
+        "mode": "bus+rail",
+        "lat": 34.00452,
+        "lng": -118.33256
+      },
+      {
+        "distance_mi": 1.49,
+        "density_per_mi2": 1736.0,
+        "population": 10829.0,
+        "mode": "bus+rail",
+        "lat": 34.00275,
+        "lng": -118.33297
+      },
+      {
+        "distance_mi": 1.62,
+        "density_per_mi2": 1647.0,
+        "population": 10298.0,
+        "mode": "bus+rail",
+        "lat": 34.00095,
+        "lng": -118.33309
+      },
+      {
+        "distance_mi": 1.74,
+        "density_per_mi2": 1548.0,
+        "population": 9088.0,
+        "mode": "bus+rail",
+        "lat": 33.99915,
+        "lng": -118.33319
+      },
+      {
+        "distance_mi": 1.86,
+        "density_per_mi2": 1304.0,
+        "population": 8170.0,
+        "mode": "bus+rail",
+        "lat": 33.99735,
+        "lng": -118.33329
+      },
+      {
+        "distance_mi": 1.99,
+        "density_per_mi2": 1341.0,
+        "population": 8462.0,
+        "mode": "bus",
+        "lat": 33.99554,
+        "lng": -118.33339
+      },
+      {
+        "distance_mi": 2.11,
+        "density_per_mi2": 1338.0,
+        "population": 8609.0,
+        "mode": "bus+rail",
+        "lat": 33.99374,
+        "lng": -118.33349
+      },
+      {
+        "distance_mi": 2.24,
+        "density_per_mi2": 1492.0,
+        "population": 10537.0,
+        "mode": "bus+rail",
+        "lat": 33.99194,
+        "lng": -118.33359
+      },
+      {
+        "distance_mi": 2.36,
+        "density_per_mi2": 1546.0,
+        "population": 11498.0,
+        "mode": "bus+rail",
+        "lat": 33.99014,
+        "lng": -118.33369
+      },
+      {
+        "distance_mi": 2.49,
+        "density_per_mi2": 1721.0,
+        "population": 13737.0,
+        "mode": "bus+rail",
+        "lat": 33.98834,
+        "lng": -118.33379
+      },
+      {
+        "distance_mi": 2.61,
+        "density_per_mi2": 1911.0,
+        "population": 15474.0,
+        "mode": "bus+rail",
+        "lat": 33.98654,
+        "lng": -118.33389
+      },
+      {
+        "distance_mi": 2.73,
+        "density_per_mi2": 2087.0,
+        "population": 16010.0,
+        "mode": "bus+rail",
+        "lat": 33.98474,
+        "lng": -118.33399
+      },
+      {
+        "distance_mi": 2.86,
+        "density_per_mi2": 2211.0,
+        "population": 16837.0,
+        "mode": "bus+rail",
+        "lat": 33.98294,
+        "lng": -118.33409
+      },
+      {
+        "distance_mi": 2.98,
+        "density_per_mi2": 2358.0,
+        "population": 18107.0,
+        "mode": "bus+rail",
+        "lat": 33.98113,
+        "lng": -118.33419
+      },
+      {
+        "distance_mi": 3.11,
+        "density_per_mi2": 2400.0,
+        "population": 17055.0,
+        "mode": "bus+rail",
+        "lat": 33.97933,
+        "lng": -118.33429
+      },
+      {
+        "distance_mi": 3.23,
+        "density_per_mi2": 2401.0,
+        "population": 16092.0,
+        "mode": "bus+rail",
+        "lat": 33.97753,
+        "lng": -118.33439
+      },
+      {
+        "distance_mi": 3.36,
+        "density_per_mi2": 2293.0,
+        "population": 13883.0,
+        "mode": "bus+rail",
+        "lat": 33.97573,
+        "lng": -118.33449
+      },
+      {
+        "distance_mi": 3.48,
+        "density_per_mi2": 2102.0,
+        "population": 11599.0,
+        "mode": "bus+rail",
+        "lat": 33.97393,
+        "lng": -118.33459
+      },
+      {
+        "distance_mi": 3.6,
+        "density_per_mi2": 1895.0,
+        "population": 9180.0,
+        "mode": "bus+rail",
+        "lat": 33.97213,
+        "lng": -118.33468
+      },
+      {
+        "distance_mi": 3.73,
+        "density_per_mi2": 1707.0,
+        "population": 7312.0,
+        "mode": "bus+rail",
+        "lat": 33.97033,
+        "lng": -118.33478
+      },
+      {
+        "distance_mi": 3.85,
+        "density_per_mi2": 1585.0,
+        "population": 6274.0,
+        "mode": "bus+rail",
+        "lat": 33.96853,
+        "lng": -118.33488
+      },
+      {
+        "distance_mi": 3.98,
+        "density_per_mi2": 1525.0,
+        "population": 6428.0,
+        "mode": "bus",
+        "lat": 33.96673,
+        "lng": -118.33498
+      },
+      {
+        "distance_mi": 4.1,
+        "density_per_mi2": 1475.0,
+        "population": 5906.0,
+        "mode": "none",
+        "lat": 33.96492,
+        "lng": -118.33508
+      },
+      {
+        "distance_mi": 4.23,
+        "density_per_mi2": 1455.0,
+        "population": 6452.0,
+        "mode": "bus",
+        "lat": 33.96312,
+        "lng": -118.33518
+      },
+      {
+        "distance_mi": 4.35,
+        "density_per_mi2": 1538.0,
+        "population": 7213.0,
+        "mode": "bus",
+        "lat": 33.96132,
+        "lng": -118.33528
+      },
+      {
+        "distance_mi": 4.47,
+        "density_per_mi2": 1618.0,
+        "population": 7078.0,
+        "mode": "bus",
+        "lat": 33.95953,
+        "lng": -118.33555
+      },
+      {
+        "distance_mi": 4.6,
+        "density_per_mi2": 1702.0,
+        "population": 6656.0,
+        "mode": "bus",
+        "lat": 33.95775,
+        "lng": -118.33585
+      },
+      {
+        "distance_mi": 4.72,
+        "density_per_mi2": 1922.0,
+        "population": 6177.0,
+        "mode": "none",
+        "lat": 33.95596,
+        "lng": -118.33615
+      },
+      {
+        "distance_mi": 4.85,
+        "density_per_mi2": 2098.0,
+        "population": 6520.0,
+        "mode": "none",
+        "lat": 33.95418,
+        "lng": -118.33645
+      },
+      {
+        "distance_mi": 4.97,
+        "density_per_mi2": 2503.0,
+        "population": 6089.0,
+        "mode": "none",
+        "lat": 33.95239,
+        "lng": -118.33675
+      },
+      {
+        "distance_mi": 5.1,
+        "density_per_mi2": 3110.0,
+        "population": 8042.0,
+        "mode": "none",
+        "lat": 33.9506,
+        "lng": -118.33705
+      },
+      {
+        "distance_mi": 5.22,
+        "density_per_mi2": 3578.0,
+        "population": 8485.0,
+        "mode": "bus",
+        "lat": 33.94882,
+        "lng": -118.33735
+      },
+      {
+        "distance_mi": 5.34,
+        "density_per_mi2": 3480.0,
+        "population": 9547.0,
+        "mode": "bus",
+        "lat": 33.94703,
+        "lng": -118.33764
+      },
+      {
+        "distance_mi": 5.47,
+        "density_per_mi2": 3278.0,
+        "population": 10382.0,
+        "mode": "bus",
+        "lat": 33.94525,
+        "lng": -118.33794
+      },
+      {
+        "distance_mi": 5.59,
+        "density_per_mi2": 3175.0,
+        "population": 12402.0,
+        "mode": "bus",
+        "lat": 33.94346,
+        "lng": -118.33824
+      },
+      {
+        "distance_mi": 5.72,
+        "density_per_mi2": 3044.0,
+        "population": 14438.0,
+        "mode": "none",
+        "lat": 33.94168,
+        "lng": -118.33854
+      },
+      {
+        "distance_mi": 5.84,
+        "density_per_mi2": 3030.0,
+        "population": 16434.0,
+        "mode": "none",
+        "lat": 33.93989,
+        "lng": -118.33884
+      },
+      {
+        "distance_mi": 5.97,
+        "density_per_mi2": 3017.0,
+        "population": 17087.0,
+        "mode": "none",
+        "lat": 33.9381,
+        "lng": -118.33914
+      },
+      {
+        "distance_mi": 6.09,
+        "density_per_mi2": 2893.0,
+        "population": 17252.0,
+        "mode": "none",
+        "lat": 33.93632,
+        "lng": -118.33944
+      },
+      {
+        "distance_mi": 6.21,
+        "density_per_mi2": 2559.0,
+        "population": 17788.0,
+        "mode": "bus",
+        "lat": 33.93453,
+        "lng": -118.33974
+      },
+      {
+        "distance_mi": 6.34,
+        "density_per_mi2": 2550.0,
+        "population": 18584.0,
+        "mode": "bus",
+        "lat": 33.93284,
+        "lng": -118.34024
+      },
+      {
+        "distance_mi": 6.46,
+        "density_per_mi2": 2648.0,
+        "population": 17963.0,
+        "mode": "bus",
+        "lat": 33.93172,
+        "lng": -118.34194
+      },
+      {
+        "distance_mi": 6.59,
+        "density_per_mi2": 2676.0,
+        "population": 17083.0,
+        "mode": "bus+rail",
+        "lat": 33.93061,
+        "lng": -118.34364
+      },
+      {
+        "distance_mi": 6.71,
+        "density_per_mi2": 2545.0,
+        "population": 17242.0,
+        "mode": "bus+rail",
+        "lat": 33.92949,
+        "lng": -118.34534
+      },
+      {
+        "distance_mi": 6.84,
+        "density_per_mi2": 2596.0,
+        "population": 18303.0,
+        "mode": "bus+rail",
+        "lat": 33.92837,
+        "lng": -118.34703
+      },
+      {
+        "distance_mi": 6.96,
+        "density_per_mi2": 2746.0,
+        "population": 16894.0,
+        "mode": "bus+rail",
+        "lat": 33.92726,
+        "lng": -118.34873
+      },
+      {
+        "distance_mi": 7.08,
+        "density_per_mi2": 2984.0,
+        "population": 17580.0,
+        "mode": "bus",
+        "lat": 33.92614,
+        "lng": -118.35043
+      },
+      {
+        "distance_mi": 7.21,
+        "density_per_mi2": 3156.0,
+        "population": 20090.0,
+        "mode": "bus",
+        "lat": 33.92502,
+        "lng": -118.35213
+      },
+      {
+        "distance_mi": 7.33,
+        "density_per_mi2": 3229.0,
+        "population": 21178.0,
+        "mode": "bus",
+        "lat": 33.92391,
+        "lng": -118.35382
+      },
+      {
+        "distance_mi": 7.46,
+        "density_per_mi2": 2977.0,
+        "population": 17719.0,
+        "mode": "bus",
+        "lat": 33.92279,
+        "lng": -118.35552
+      },
+      {
+        "distance_mi": 7.58,
+        "density_per_mi2": 2767.0,
+        "population": 16438.0,
+        "mode": "none",
+        "lat": 33.92167,
+        "lng": -118.35722
+      },
+      {
+        "distance_mi": 7.71,
+        "density_per_mi2": 2514.0,
+        "population": 16018.0,
+        "mode": "bus",
+        "lat": 33.92055,
+        "lng": -118.35892
+      }
+    ]
+  },
+  "Sepulveda Blvd": {
+    "description": "San Fernando Valley to LAX \u2014 future Sepulveda Transit Corridor",
+    "length_mi": 17.1,
+    "coordinates": [
+      [
+        -118.44870000000002,
+        34.18630000000002
+      ],
+      [
+        -118.4523,
+        34.15670000000001
+      ],
+      [
+        -118.46870000000001,
+        34.07829999999996
+      ],
+      [
+        -118.39850000000001,
+        33.95300000000003
+      ]
+    ],
+    "profile": [
+      {
+        "distance_mi": 0.0,
+        "density_per_mi2": 2304.0,
+        "population": 18147.0,
+        "mode": "bus",
+        "lat": 34.1863,
+        "lng": -118.4487
+      },
+      {
+        "distance_mi": 0.12,
+        "density_per_mi2": 2309.0,
+        "population": 19979.0,
+        "mode": "bus",
+        "lat": 34.18451,
+        "lng": -118.44892
+      },
+      {
+        "distance_mi": 0.25,
+        "density_per_mi2": 2076.0,
+        "population": 17011.0,
+        "mode": "bus",
+        "lat": 34.18271,
+        "lng": -118.44914
+      },
+      {
+        "distance_mi": 0.37,
+        "density_per_mi2": 1974.0,
+        "population": 16130.0,
+        "mode": "bus",
+        "lat": 34.18092,
+        "lng": -118.44935
+      },
+      {
+        "distance_mi": 0.5,
+        "density_per_mi2": 1834.0,
+        "population": 14798.0,
+        "mode": "bus",
+        "lat": 34.17913,
+        "lng": -118.44957
+      },
+      {
+        "distance_mi": 0.62,
+        "density_per_mi2": 1709.0,
+        "population": 13370.0,
+        "mode": "bus",
+        "lat": 34.17733,
+        "lng": -118.44979
+      },
+      {
+        "distance_mi": 0.75,
+        "density_per_mi2": 1560.0,
+        "population": 11304.0,
+        "mode": "bus",
+        "lat": 34.17554,
+        "lng": -118.45001
+      },
+      {
+        "distance_mi": 0.87,
+        "density_per_mi2": 1430.0,
+        "population": 10153.0,
+        "mode": "bus",
+        "lat": 34.17374,
+        "lng": -118.45023
+      },
+      {
+        "distance_mi": 0.99,
+        "density_per_mi2": 1661.0,
+        "population": 11136.0,
+        "mode": "bus",
+        "lat": 34.17195,
+        "lng": -118.45045
+      },
+      {
+        "distance_mi": 1.12,
+        "density_per_mi2": 1781.0,
+        "population": 12540.0,
+        "mode": "bus",
+        "lat": 34.17016,
+        "lng": -118.45066
+      },
+      {
+        "distance_mi": 1.24,
+        "density_per_mi2": 1971.0,
+        "population": 12458.0,
+        "mode": "bus",
+        "lat": 34.16836,
+        "lng": -118.45088
+      },
+      {
+        "distance_mi": 1.37,
+        "density_per_mi2": 2049.0,
+        "population": 13394.0,
+        "mode": "bus",
+        "lat": 34.16657,
+        "lng": -118.4511
+      },
+      {
+        "distance_mi": 1.49,
+        "density_per_mi2": 2003.0,
+        "population": 13080.0,
+        "mode": "bus",
+        "lat": 34.16478,
+        "lng": -118.45132
+      },
+      {
+        "distance_mi": 1.62,
+        "density_per_mi2": 1908.0,
+        "population": 14852.0,
+        "mode": "bus",
+        "lat": 34.16298,
+        "lng": -118.45154
+      },
+      {
+        "distance_mi": 1.74,
+        "density_per_mi2": 1987.0,
+        "population": 15002.0,
+        "mode": "bus",
+        "lat": 34.16119,
+        "lng": -118.45175
+      },
+      {
+        "distance_mi": 1.86,
+        "density_per_mi2": 1884.0,
+        "population": 13260.0,
+        "mode": "bus",
+        "lat": 34.1594,
+        "lng": -118.45197
+      },
+      {
+        "distance_mi": 1.99,
+        "density_per_mi2": 1703.0,
+        "population": 13988.0,
+        "mode": "bus",
+        "lat": 34.1576,
+        "lng": -118.45219
+      },
+      {
+        "distance_mi": 2.11,
+        "density_per_mi2": 1727.0,
+        "population": 14283.0,
+        "mode": "bus",
+        "lat": 34.15582,
+        "lng": -118.45248
+      },
+      {
+        "distance_mi": 2.24,
+        "density_per_mi2": 1672.0,
+        "population": 13128.0,
+        "mode": "bus",
+        "lat": 34.15404,
+        "lng": -118.45286
+      },
+      {
+        "distance_mi": 2.36,
+        "density_per_mi2": 1689.0,
+        "population": 14168.0,
+        "mode": "bus",
+        "lat": 34.15227,
+        "lng": -118.45323
+      },
+      {
+        "distance_mi": 2.49,
+        "density_per_mi2": 1866.0,
+        "population": 13953.0,
+        "mode": "bus",
+        "lat": 34.15049,
+        "lng": -118.4536
+      },
+      {
+        "distance_mi": 2.61,
+        "density_per_mi2": 1801.0,
+        "population": 13688.0,
+        "mode": "bus",
+        "lat": 34.14871,
+        "lng": -118.45397
+      },
+      {
+        "distance_mi": 2.73,
+        "density_per_mi2": 1753.0,
+        "population": 11799.0,
+        "mode": "none",
+        "lat": 34.14694,
+        "lng": -118.45434
+      },
+      {
+        "distance_mi": 2.86,
+        "density_per_mi2": 1419.0,
+        "population": 9176.0,
+        "mode": "none",
+        "lat": 34.14516,
+        "lng": -118.45472
+      },
+      {
+        "distance_mi": 2.98,
+        "density_per_mi2": 1147.0,
+        "population": 5838.0,
+        "mode": "none",
+        "lat": 34.14339,
+        "lng": -118.45509
+      },
+      {
+        "distance_mi": 3.11,
+        "density_per_mi2": 686.0,
+        "population": 4156.0,
+        "mode": "none",
+        "lat": 34.14161,
+        "lng": -118.45546
+      },
+      {
+        "distance_mi": 3.23,
+        "density_per_mi2": 599.0,
+        "population": 4467.0,
+        "mode": "none",
+        "lat": 34.13983,
+        "lng": -118.45583
+      },
+      {
+        "distance_mi": 3.36,
+        "density_per_mi2": 476.0,
+        "population": 3852.0,
+        "mode": "none",
+        "lat": 34.13806,
+        "lng": -118.4562
+      },
+      {
+        "distance_mi": 3.48,
+        "density_per_mi2": 451.0,
+        "population": 4603.0,
+        "mode": "none",
+        "lat": 34.13628,
+        "lng": -118.45657
+      },
+      {
+        "distance_mi": 3.6,
+        "density_per_mi2": 418.0,
+        "population": 4364.0,
+        "mode": "none",
+        "lat": 34.1345,
+        "lng": -118.45695
+      },
+      {
+        "distance_mi": 3.73,
+        "density_per_mi2": 424.0,
+        "population": 4562.0,
+        "mode": "none",
+        "lat": 34.13273,
+        "lng": -118.45732
+      },
+      {
+        "distance_mi": 3.85,
+        "density_per_mi2": 410.0,
+        "population": 5760.0,
+        "mode": "none",
+        "lat": 34.13095,
+        "lng": -118.45769
+      },
+      {
+        "distance_mi": 3.98,
+        "density_per_mi2": 412.0,
+        "population": 5211.0,
+        "mode": "none",
+        "lat": 34.12918,
+        "lng": -118.45806
+      },
+      {
+        "distance_mi": 4.1,
+        "density_per_mi2": 215.0,
+        "population": 4969.0,
+        "mode": "none",
+        "lat": 34.1274,
+        "lng": -118.45843
+      },
+      {
+        "distance_mi": 4.23,
+        "density_per_mi2": 194.0,
+        "population": 4457.0,
+        "mode": "none",
+        "lat": 34.12562,
+        "lng": -118.4588
+      },
+      {
+        "distance_mi": 4.35,
+        "density_per_mi2": 158.0,
+        "population": 4397.0,
+        "mode": "none",
+        "lat": 34.12385,
+        "lng": -118.45918
+      },
+      {
+        "distance_mi": 4.47,
+        "density_per_mi2": 75.0,
+        "population": 3118.0,
+        "mode": "none",
+        "lat": 34.12207,
+        "lng": -118.45955
+      },
+      {
+        "distance_mi": 4.6,
+        "density_per_mi2": 105.0,
+        "population": 3824.0,
+        "mode": "none",
+        "lat": 34.1203,
+        "lng": -118.45992
+      },
+      {
+        "distance_mi": 4.72,
+        "density_per_mi2": 126.0,
+        "population": 3824.0,
+        "mode": "none",
+        "lat": 34.11852,
+        "lng": -118.46029
+      },
+      {
+        "distance_mi": 4.85,
+        "density_per_mi2": 126.0,
+        "population": 3824.0,
+        "mode": "none",
+        "lat": 34.11674,
+        "lng": -118.46066
+      },
+      {
+        "distance_mi": 4.97,
+        "density_per_mi2": 126.0,
+        "population": 3824.0,
+        "mode": "none",
+        "lat": 34.11497,
+        "lng": -118.46103
+      },
+      {
+        "distance_mi": 5.1,
+        "density_per_mi2": 126.0,
+        "population": 3824.0,
+        "mode": "none",
+        "lat": 34.11319,
+        "lng": -118.46141
+      },
+      {
+        "distance_mi": 5.22,
+        "density_per_mi2": 126.0,
+        "population": 3824.0,
+        "mode": "none",
+        "lat": 34.11141,
+        "lng": -118.46178
+      },
+      {
+        "distance_mi": 5.34,
+        "density_per_mi2": 121.0,
+        "population": 4103.0,
+        "mode": "none",
+        "lat": 34.10964,
+        "lng": -118.46215
+      },
+      {
+        "distance_mi": 5.47,
+        "density_per_mi2": 121.0,
+        "population": 3290.0,
+        "mode": "none",
+        "lat": 34.10786,
+        "lng": -118.46252
+      },
+      {
+        "distance_mi": 5.59,
+        "density_per_mi2": 221.0,
+        "population": 3350.0,
+        "mode": "none",
+        "lat": 34.10609,
+        "lng": -118.46289
+      },
+      {
+        "distance_mi": 5.72,
+        "density_per_mi2": 295.0,
+        "population": 3688.0,
+        "mode": "none",
+        "lat": 34.10431,
+        "lng": -118.46326
+      },
+      {
+        "distance_mi": 5.84,
+        "density_per_mi2": 337.0,
+        "population": 3688.0,
+        "mode": "none",
+        "lat": 34.10253,
+        "lng": -118.46363
+      },
+      {
+        "distance_mi": 5.97,
+        "density_per_mi2": 332.0,
+        "population": 4374.0,
+        "mode": "none",
+        "lat": 34.10076,
+        "lng": -118.46401
+      },
+      {
+        "distance_mi": 6.09,
+        "density_per_mi2": 332.0,
+        "population": 4374.0,
+        "mode": "none",
+        "lat": 34.09898,
+        "lng": -118.46438
+      },
+      {
+        "distance_mi": 6.21,
+        "density_per_mi2": 332.0,
+        "population": 4374.0,
+        "mode": "none",
+        "lat": 34.09721,
+        "lng": -118.46475
+      },
+      {
+        "distance_mi": 6.34,
+        "density_per_mi2": 332.0,
+        "population": 4374.0,
+        "mode": "none",
+        "lat": 34.09543,
+        "lng": -118.46512
+      },
+      {
+        "distance_mi": 6.46,
+        "density_per_mi2": 338.0,
+        "population": 3721.0,
+        "mode": "none",
+        "lat": 34.09365,
+        "lng": -118.46549
+      },
+      {
+        "distance_mi": 6.59,
+        "density_per_mi2": 196.0,
+        "population": 3599.0,
+        "mode": "none",
+        "lat": 34.09188,
+        "lng": -118.46586
+      },
+      {
+        "distance_mi": 6.71,
+        "density_per_mi2": 183.0,
+        "population": 3680.0,
+        "mode": "none",
+        "lat": 34.0901,
+        "lng": -118.46623
+      },
+      {
+        "distance_mi": 6.84,
+        "density_per_mi2": 110.0,
+        "population": 3422.0,
+        "mode": "none",
+        "lat": 34.08832,
+        "lng": -118.46661
+      },
+      {
+        "distance_mi": 6.96,
+        "density_per_mi2": 222.0,
+        "population": 4085.0,
+        "mode": "none",
+        "lat": 34.08655,
+        "lng": -118.46698
+      },
+      {
+        "distance_mi": 7.08,
+        "density_per_mi2": 235.0,
+        "population": 4085.0,
+        "mode": "none",
+        "lat": 34.08477,
+        "lng": -118.46735
+      },
+      {
+        "distance_mi": 7.21,
+        "density_per_mi2": 270.0,
+        "population": 3949.0,
+        "mode": "none",
+        "lat": 34.083,
+        "lng": -118.46772
+      },
+      {
+        "distance_mi": 7.33,
+        "density_per_mi2": 266.0,
+        "population": 4058.0,
+        "mode": "none",
+        "lat": 34.08122,
+        "lng": -118.46809
+      },
+      {
+        "distance_mi": 7.46,
+        "density_per_mi2": 258.0,
+        "population": 4208.0,
+        "mode": "none",
+        "lat": 34.07944,
+        "lng": -118.46846
+      },
+      {
+        "distance_mi": 7.58,
+        "density_per_mi2": 464.0,
+        "population": 3244.0,
+        "mode": "bus",
+        "lat": 34.07772,
+        "lng": -118.46837
+      },
+      {
+        "distance_mi": 7.71,
+        "density_per_mi2": 604.0,
+        "population": 3760.0,
+        "mode": "bus",
+        "lat": 34.07608,
+        "lng": -118.46746
+      },
+      {
+        "distance_mi": 7.83,
+        "density_per_mi2": 682.0,
+        "population": 4763.0,
+        "mode": "bus",
+        "lat": 34.07445,
+        "lng": -118.46654
+      },
+      {
+        "distance_mi": 7.95,
+        "density_per_mi2": 764.0,
+        "population": 5804.0,
+        "mode": "bus",
+        "lat": 34.07282,
+        "lng": -118.46562
+      },
+      {
+        "distance_mi": 8.08,
+        "density_per_mi2": 802.0,
+        "population": 5925.0,
+        "mode": "bus",
+        "lat": 34.07118,
+        "lng": -118.46471
+      },
+      {
+        "distance_mi": 8.2,
+        "density_per_mi2": 871.0,
+        "population": 6856.0,
+        "mode": "bus",
+        "lat": 34.06955,
+        "lng": -118.46379
+      },
+      {
+        "distance_mi": 8.33,
+        "density_per_mi2": 1453.0,
+        "population": 14915.0,
+        "mode": "bus",
+        "lat": 34.06792,
+        "lng": -118.46287
+      },
+      {
+        "distance_mi": 8.45,
+        "density_per_mi2": 1818.0,
+        "population": 15207.0,
+        "mode": "bus",
+        "lat": 34.06628,
+        "lng": -118.46196
+      },
+      {
+        "distance_mi": 8.57,
+        "density_per_mi2": 1904.0,
+        "population": 11494.0,
+        "mode": "bus",
+        "lat": 34.06465,
+        "lng": -118.46104
+      },
+      {
+        "distance_mi": 8.7,
+        "density_per_mi2": 2427.0,
+        "population": 12137.0,
+        "mode": "none",
+        "lat": 34.06301,
+        "lng": -118.46012
+      },
+      {
+        "distance_mi": 8.82,
+        "density_per_mi2": 2696.0,
+        "population": 11010.0,
+        "mode": "none",
+        "lat": 34.06138,
+        "lng": -118.45921
+      },
+      {
+        "distance_mi": 8.95,
+        "density_per_mi2": 2369.0,
+        "population": 10016.0,
+        "mode": "none",
+        "lat": 34.05975,
+        "lng": -118.45829
+      },
+      {
+        "distance_mi": 9.07,
+        "density_per_mi2": 2564.0,
+        "population": 9706.0,
+        "mode": "none",
+        "lat": 34.05811,
+        "lng": -118.45737
+      },
+      {
+        "distance_mi": 9.2,
+        "density_per_mi2": 2347.0,
+        "population": 7895.0,
+        "mode": "bus",
+        "lat": 34.05648,
+        "lng": -118.45646
+      },
+      {
+        "distance_mi": 9.32,
+        "density_per_mi2": 2601.0,
+        "population": 9829.0,
+        "mode": "bus",
+        "lat": 34.05485,
+        "lng": -118.45554
+      },
+      {
+        "distance_mi": 9.44,
+        "density_per_mi2": 3028.0,
+        "population": 11123.0,
+        "mode": "bus",
+        "lat": 34.05321,
+        "lng": -118.45462
+      },
+      {
+        "distance_mi": 9.57,
+        "density_per_mi2": 3006.0,
+        "population": 12230.0,
+        "mode": "bus",
+        "lat": 34.05158,
+        "lng": -118.45371
+      },
+      {
+        "distance_mi": 9.69,
+        "density_per_mi2": 3253.0,
+        "population": 14996.0,
+        "mode": "bus",
+        "lat": 34.04995,
+        "lng": -118.45279
+      },
+      {
+        "distance_mi": 9.82,
+        "density_per_mi2": 3340.0,
+        "population": 17095.0,
+        "mode": "bus",
+        "lat": 34.04831,
+        "lng": -118.45188
+      },
+      {
+        "distance_mi": 9.94,
+        "density_per_mi2": 3313.0,
+        "population": 18955.0,
+        "mode": "bus",
+        "lat": 34.04668,
+        "lng": -118.45096
+      },
+      {
+        "distance_mi": 10.07,
+        "density_per_mi2": 2950.0,
+        "population": 18627.0,
+        "mode": "bus",
+        "lat": 34.04504,
+        "lng": -118.45004
+      },
+      {
+        "distance_mi": 10.19,
+        "density_per_mi2": 2641.0,
+        "population": 17105.0,
+        "mode": "bus",
+        "lat": 34.04341,
+        "lng": -118.44913
+      },
+      {
+        "distance_mi": 10.31,
+        "density_per_mi2": 2393.0,
+        "population": 15978.0,
+        "mode": "bus",
+        "lat": 34.04178,
+        "lng": -118.44821
+      },
+      {
+        "distance_mi": 10.44,
+        "density_per_mi2": 2089.0,
+        "population": 13693.0,
+        "mode": "bus",
+        "lat": 34.04014,
+        "lng": -118.44729
+      },
+      {
+        "distance_mi": 10.56,
+        "density_per_mi2": 1822.0,
+        "population": 12247.0,
+        "mode": "bus",
+        "lat": 34.03851,
+        "lng": -118.44638
+      },
+      {
+        "distance_mi": 10.69,
+        "density_per_mi2": 1731.0,
+        "population": 11913.0,
+        "mode": "bus",
+        "lat": 34.03687,
+        "lng": -118.44546
+      },
+      {
+        "distance_mi": 10.81,
+        "density_per_mi2": 1354.0,
+        "population": 9356.0,
+        "mode": "bus",
+        "lat": 34.03524,
+        "lng": -118.44455
+      },
+      {
+        "distance_mi": 10.94,
+        "density_per_mi2": 1079.0,
+        "population": 7596.0,
+        "mode": "bus",
+        "lat": 34.03361,
+        "lng": -118.44363
+      },
+      {
+        "distance_mi": 11.06,
+        "density_per_mi2": 1128.0,
+        "population": 8143.0,
+        "mode": "bus",
+        "lat": 34.03197,
+        "lng": -118.44272
+      },
+      {
+        "distance_mi": 11.18,
+        "density_per_mi2": 1167.0,
+        "population": 8845.0,
+        "mode": "bus",
+        "lat": 34.03034,
+        "lng": -118.4418
+      },
+      {
+        "distance_mi": 11.31,
+        "density_per_mi2": 1322.0,
+        "population": 10043.0,
+        "mode": "bus",
+        "lat": 34.02871,
+        "lng": -118.44088
+      },
+      {
+        "distance_mi": 11.43,
+        "density_per_mi2": 1567.0,
+        "population": 12322.0,
+        "mode": "bus",
+        "lat": 34.02707,
+        "lng": -118.43997
+      },
+      {
+        "distance_mi": 11.56,
+        "density_per_mi2": 1618.0,
+        "population": 12516.0,
+        "mode": "bus",
+        "lat": 34.02544,
+        "lng": -118.43905
+      },
+      {
+        "distance_mi": 11.68,
+        "density_per_mi2": 1415.0,
+        "population": 11068.0,
+        "mode": "bus",
+        "lat": 34.0238,
+        "lng": -118.43814
+      },
+      {
+        "distance_mi": 11.81,
+        "density_per_mi2": 1545.0,
+        "population": 11453.0,
+        "mode": "bus",
+        "lat": 34.02217,
+        "lng": -118.43722
+      },
+      {
+        "distance_mi": 11.93,
+        "density_per_mi2": 1501.0,
+        "population": 11376.0,
+        "mode": "bus",
+        "lat": 34.02054,
+        "lng": -118.43631
+      },
+      {
+        "distance_mi": 12.05,
+        "density_per_mi2": 1423.0,
+        "population": 11004.0,
+        "mode": "none",
+        "lat": 34.0189,
+        "lng": -118.43539
+      },
+      {
+        "distance_mi": 12.18,
+        "density_per_mi2": 1417.0,
+        "population": 10676.0,
+        "mode": "none",
+        "lat": 34.01727,
+        "lng": -118.43447
+      },
+      {
+        "distance_mi": 12.3,
+        "density_per_mi2": 1275.0,
+        "population": 8981.0,
+        "mode": "none",
+        "lat": 34.01563,
+        "lng": -118.43356
+      },
+      {
+        "distance_mi": 12.43,
+        "density_per_mi2": 1392.0,
+        "population": 9979.0,
+        "mode": "none",
+        "lat": 34.014,
+        "lng": -118.43264
+      },
+      {
+        "distance_mi": 12.55,
+        "density_per_mi2": 1419.0,
+        "population": 11013.0,
+        "mode": "none",
+        "lat": 34.01237,
+        "lng": -118.43173
+      },
+      {
+        "distance_mi": 12.68,
+        "density_per_mi2": 1554.0,
+        "population": 11709.0,
+        "mode": "none",
+        "lat": 34.01073,
+        "lng": -118.43081
+      },
+      {
+        "distance_mi": 12.8,
+        "density_per_mi2": 1569.0,
+        "population": 11853.0,
+        "mode": "bus",
+        "lat": 34.0091,
+        "lng": -118.4299
+      },
+      {
+        "distance_mi": 12.92,
+        "density_per_mi2": 1773.0,
+        "population": 13727.0,
+        "mode": "bus",
+        "lat": 34.00746,
+        "lng": -118.42898
+      },
+      {
+        "distance_mi": 13.05,
+        "density_per_mi2": 1854.0,
+        "population": 14215.0,
+        "mode": "bus",
+        "lat": 34.00583,
+        "lng": -118.42807
+      },
+      {
+        "distance_mi": 13.17,
+        "density_per_mi2": 1888.0,
+        "population": 13171.0,
+        "mode": "bus",
+        "lat": 34.0042,
+        "lng": -118.42715
+      },
+      {
+        "distance_mi": 13.3,
+        "density_per_mi2": 2297.0,
+        "population": 14399.0,
+        "mode": "none",
+        "lat": 34.00256,
+        "lng": -118.42624
+      },
+      {
+        "distance_mi": 13.42,
+        "density_per_mi2": 2393.0,
+        "population": 16802.0,
+        "mode": "bus",
+        "lat": 34.00093,
+        "lng": -118.42532
+      },
+      {
+        "distance_mi": 13.55,
+        "density_per_mi2": 2464.0,
+        "population": 15395.0,
+        "mode": "bus",
+        "lat": 33.99929,
+        "lng": -118.42441
+      },
+      {
+        "distance_mi": 13.67,
+        "density_per_mi2": 2332.0,
+        "population": 15924.0,
+        "mode": "bus",
+        "lat": 33.99766,
+        "lng": -118.42349
+      },
+      {
+        "distance_mi": 13.79,
+        "density_per_mi2": 2325.0,
+        "population": 15843.0,
+        "mode": "bus",
+        "lat": 33.99603,
+        "lng": -118.42258
+      },
+      {
+        "distance_mi": 13.92,
+        "density_per_mi2": 2337.0,
+        "population": 16209.0,
+        "mode": "bus",
+        "lat": 33.99439,
+        "lng": -118.42166
+      },
+      {
+        "distance_mi": 14.04,
+        "density_per_mi2": 2226.0,
+        "population": 15868.0,
+        "mode": "bus",
+        "lat": 33.99276,
+        "lng": -118.42075
+      },
+      {
+        "distance_mi": 14.17,
+        "density_per_mi2": 2243.0,
+        "population": 14609.0,
+        "mode": "bus",
+        "lat": 33.99112,
+        "lng": -118.41983
+      },
+      {
+        "distance_mi": 14.29,
+        "density_per_mi2": 1902.0,
+        "population": 15187.0,
+        "mode": "bus",
+        "lat": 33.98949,
+        "lng": -118.41892
+      },
+      {
+        "distance_mi": 14.42,
+        "density_per_mi2": 1717.0,
+        "population": 13561.0,
+        "mode": "bus",
+        "lat": 33.98786,
+        "lng": -118.418
+      },
+      {
+        "distance_mi": 14.54,
+        "density_per_mi2": 1623.0,
+        "population": 11109.0,
+        "mode": "bus",
+        "lat": 33.98622,
+        "lng": -118.41709
+      },
+      {
+        "distance_mi": 14.66,
+        "density_per_mi2": 1770.0,
+        "population": 12236.0,
+        "mode": "bus",
+        "lat": 33.98459,
+        "lng": -118.41617
+      },
+      {
+        "distance_mi": 14.79,
+        "density_per_mi2": 1808.0,
+        "population": 10963.0,
+        "mode": "bus",
+        "lat": 33.98295,
+        "lng": -118.41526
+      },
+      {
+        "distance_mi": 14.91,
+        "density_per_mi2": 1893.0,
+        "population": 11419.0,
+        "mode": "bus",
+        "lat": 33.98132,
+        "lng": -118.41434
+      },
+      {
+        "distance_mi": 15.04,
+        "density_per_mi2": 1912.0,
+        "population": 10852.0,
+        "mode": "bus",
+        "lat": 33.97968,
+        "lng": -118.41343
+      },
+      {
+        "distance_mi": 15.16,
+        "density_per_mi2": 2013.0,
+        "population": 10894.0,
+        "mode": "bus",
+        "lat": 33.97805,
+        "lng": -118.41251
+      },
+      {
+        "distance_mi": 15.29,
+        "density_per_mi2": 2185.0,
+        "population": 11406.0,
+        "mode": "bus",
+        "lat": 33.97642,
+        "lng": -118.4116
+      },
+      {
+        "distance_mi": 15.41,
+        "density_per_mi2": 2259.0,
+        "population": 11179.0,
+        "mode": "none",
+        "lat": 33.97478,
+        "lng": -118.41068
+      },
+      {
+        "distance_mi": 15.53,
+        "density_per_mi2": 2106.0,
+        "population": 10799.0,
+        "mode": "none",
+        "lat": 33.97315,
+        "lng": -118.40977
+      },
+      {
+        "distance_mi": 15.66,
+        "density_per_mi2": 1873.0,
+        "population": 11723.0,
+        "mode": "none",
+        "lat": 33.97151,
+        "lng": -118.40886
+      },
+      {
+        "distance_mi": 15.78,
+        "density_per_mi2": 1217.0,
+        "population": 8357.0,
+        "mode": "none",
+        "lat": 33.96988,
+        "lng": -118.40794
+      },
+      {
+        "distance_mi": 15.91,
+        "density_per_mi2": 1248.0,
+        "population": 8555.0,
+        "mode": "none",
+        "lat": 33.96824,
+        "lng": -118.40703
+      },
+      {
+        "distance_mi": 16.03,
+        "density_per_mi2": 1266.0,
+        "population": 9460.0,
+        "mode": "none",
+        "lat": 33.96661,
+        "lng": -118.40611
+      },
+      {
+        "distance_mi": 16.16,
+        "density_per_mi2": 1265.0,
+        "population": 9921.0,
+        "mode": "none",
+        "lat": 33.96498,
+        "lng": -118.4052
+      },
+      {
+        "distance_mi": 16.28,
+        "density_per_mi2": 1230.0,
+        "population": 8025.0,
+        "mode": "bus",
+        "lat": 33.96334,
+        "lng": -118.40428
+      },
+      {
+        "distance_mi": 16.4,
+        "density_per_mi2": 1132.0,
+        "population": 7002.0,
+        "mode": "bus",
+        "lat": 33.96171,
+        "lng": -118.40337
+      },
+      {
+        "distance_mi": 16.53,
+        "density_per_mi2": 1072.0,
+        "population": 6378.0,
+        "mode": "bus",
+        "lat": 33.96007,
+        "lng": -118.40246
+      },
+      {
+        "distance_mi": 16.65,
+        "density_per_mi2": 976.0,
+        "population": 5628.0,
+        "mode": "bus",
+        "lat": 33.95844,
+        "lng": -118.40154
+      },
+      {
+        "distance_mi": 16.78,
+        "density_per_mi2": 873.0,
+        "population": 4463.0,
+        "mode": "bus",
+        "lat": 33.9568,
+        "lng": -118.40063
+      },
+      {
+        "distance_mi": 16.9,
+        "density_per_mi2": 781.0,
+        "population": 3650.0,
+        "mode": "bus",
+        "lat": 33.95517,
+        "lng": -118.39971
+      },
+      {
+        "distance_mi": 17.03,
+        "density_per_mi2": 639.0,
+        "population": 2387.0,
+        "mode": "bus",
+        "lat": 33.95354,
+        "lng": -118.3988
+      }
+    ]
+  }
+}

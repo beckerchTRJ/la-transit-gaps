@@ -1,0 +1,283 @@
+/* ==========================================================================
+   LA Transit Data Story — Style Sheet
+   ========================================================================== */
+
+/* --- Reset & Base --- */
+*, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
+
+:root {
+  --bg: #FAFAFA;
+  --text: #1A1A1A;
+  --text-secondary: #555;
+  --accent: #BD0026;
+  --figure-bg: #E8ECF0;
+  --max-text: 720px;
+  --max-figure: 1200px;
+  --font-headline: 'Space Grotesk', 'Helvetica Neue', Arial, sans-serif;
+  --font-body: 'DM Sans', 'Helvetica Neue', Arial, sans-serif;
+}
+
+html { scroll-behavior: smooth; }
+
+body {
+  font-family: var(--font-body);
+  font-size: 18px;
+  line-height: 1.6;
+  color: var(--text);
+  background: var(--bg);
+  -webkit-font-smoothing: antialiased;
+}
+
+/* --- Layout --- */
+.article { max-width: var(--max-figure); margin: 0 auto; padding: 0 24px; }
+
+.text-column {
+  max-width: var(--max-text);
+  margin: 0 auto;
+}
+
+section {
+  padding: 80px 0;
+  border-bottom: 1px solid #e0e0e0;
+}
+section:last-child { border-bottom: none; }
+
+/* --- Typography --- */
+.section-label {
+  font-family: var(--font-body);
+  font-size: 12px;
+  font-weight: 500;
+  text-transform: uppercase;
+  letter-spacing: 0.12em;
+  color: var(--accent);
+  margin-bottom: 12px;
+}
+
+h1 {
+  font-family: var(--font-headline);
+  font-size: clamp(36px, 5vw, 64px);
+  font-weight: 700;
+  line-height: 1.1;
+  color: var(--text);
+  margin-bottom: 24px;
+}
+
+h2 {
+  font-family: var(--font-headline);
+  font-size: clamp(28px, 3.5vw, 42px);
+  font-weight: 700;
+  line-height: 1.15;
+  color: var(--text);
+  margin-bottom: 16px;
+}
+
+h3 {
+  font-family: var(--font-headline);
+  font-size: 22px;
+  font-weight: 700;
+  color: var(--text);
+  margin-bottom: 12px;
+}
+
+p {
+  margin-bottom: 20px;
+  color: var(--text-secondary);
+}
+
+p.lead {
+  font-size: 22px;
+  line-height: 1.5;
+  color: var(--text);
+}
+
+/* --- Stat Callouts --- */
+.stat-callout {
+  text-align: center;
+  padding: 40px 0;
+}
+
+.stat-number {
+  font-family: var(--font-headline);
+  font-size: clamp(48px, 8vw, 72px);
+  font-weight: 700;
+  line-height: 1;
+  color: var(--accent);
+  font-variant-numeric: tabular-nums;
+}
+
+.stat-label {
+  font-family: var(--font-body);
+  font-size: 16px;
+  font-weight: 500;
+  color: var(--text-secondary);
+  margin-top: 8px;
+}
+
+.stat-row {
+  display: flex;
+  justify-content: center;
+  gap: 60px;
+  flex-wrap: wrap;
+}
+
+.stat-row .stat-callout { flex: 1; min-width: 200px; }
+
+/* --- Figures --- */
+.figure-container {
+  background: var(--figure-bg);
+  border-radius: 8px;
+  margin: 32px 0;
+  padding: 16px;
+  position: relative;
+  overflow: hidden;
+}
+
+.figure-container svg {
+  display: block;
+  width: 100%;
+  height: auto;
+}
+
+/* Ensure viz containers have enough height to trigger IntersectionObserver */
+[data-viz] {
+  min-height: 100px;
+}
+
+.figure-caption {
+  font-size: 13px;
+  color: var(--text-secondary);
+  margin-top: 12px;
+  line-height: 1.4;
+}
+
+/* Side-by-side maps */
+.map-pair {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 16px;
+}
+
+/* --- Hero Section --- */
+.hero {
+  padding-top: 120px;
+  padding-bottom: 80px;
+  text-align: center;
+}
+
+.hero .text-column { max-width: 800px; }
+
+.byline {
+  font-size: 14px;
+  color: var(--text-secondary);
+  margin-top: -12px;
+  margin-bottom: 32px;
+}
+
+/* --- Interactive Map (Section 6) --- */
+.interactive-frame {
+  width: 100%;
+  height: 80vh;
+  min-height: 500px;
+  border: none;
+  border-radius: 8px;
+  background: var(--figure-bg);
+}
+
+/* --- D3 Styles --- */
+.hex-tooltip, .block-tooltip {
+  position: absolute;
+  padding: 8px 12px;
+  background: white;
+  border-radius: 4px;
+  box-shadow: 2px 2px 6px rgba(0,0,0,0.15);
+  font-family: var(--font-body);
+  font-size: 13px;
+  color: #333;
+  pointer-events: none;
+  z-index: 100;
+  opacity: 0;
+  transition: opacity 0.15s;
+}
+
+.map-zoomable { cursor: grab; }
+.map-zoomable:active { cursor: grabbing; }
+
+.legend {
+  font-family: var(--font-body);
+  font-size: 12px;
+}
+
+.legend .swatch {
+  display: inline-block;
+  width: 18px;
+  height: 14px;
+  margin-right: 4px;
+  vertical-align: middle;
+  border-radius: 2px;
+}
+
+.legend-title {
+  font-family: var(--font-headline);
+  font-size: 13px;
+  font-weight: 700;
+  margin-bottom: 6px;
+  color: #222;
+}
+
+/* D3 map titles */
+.viz-title {
+  font-family: var(--font-headline);
+  font-size: 16px;
+  font-weight: 700;
+  fill: #222;
+}
+
+.viz-subtitle {
+  font-family: var(--font-body);
+  font-size: 12px;
+  fill: #666;
+}
+
+/* Corridor charts */
+.corridor-card {
+  background: var(--figure-bg);
+  border-radius: 8px;
+  padding: 16px;
+  margin-bottom: 16px;
+}
+
+.corridor-card h3 {
+  font-size: 18px;
+  margin-bottom: 8px;
+}
+
+.corridor-card .corridor-desc {
+  font-size: 14px;
+  color: var(--text-secondary);
+  margin-bottom: 12px;
+}
+
+/* --- Scroll Animations --- */
+.fade-in {
+  opacity: 0;
+  transform: translateY(30px);
+  transition: opacity 0.6s ease-out, transform 0.6s ease-out;
+}
+
+.fade-in.visible {
+  opacity: 1;
+  transform: translateY(0);
+}
+
+/* --- Responsive --- */
+@media (max-width: 768px) {
+  .article { padding: 0 16px; }
+  section { padding: 48px 0; }
+  .hero { padding-top: 72px; }
+  .map-pair { grid-template-columns: 1fr; }
+  .stat-row { gap: 24px; }
+  .stat-number { font-size: 48px; }
+  .figure-container { margin: 20px -16px; border-radius: 0; }
+  p { font-size: 16px; }
+  p.lead { font-size: 18px; }
+}
